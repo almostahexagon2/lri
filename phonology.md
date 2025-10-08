@@ -1,7 +1,7 @@
 # Phonology
 Phonology is the set of sounds in a language.
 |  | Blablial | L. dental | Av | Pav | Pal | Velar | Glottal |
-| :---- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 | plosive | p, b |  | t, d |  |  | k, g |  |
 | nasal | m |  | n |  |  |  |  |
 | fricative |  | f, v | s, z | ഽ, ʒ |  | x | h |
