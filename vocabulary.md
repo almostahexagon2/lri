@@ -7,17 +7,17 @@ Each word will have its own section, each section will have what the word will m
 
 ## Simple Endings
 ### "a"
-When <a> is used at the end of a word or compound, it makes it an adjective. To say the word "adjective" use "namo a". The word for a property is "ajo".
+When "a" is used at the end of a word or compound, it makes it an adjective. To say the word "adjective" use "namo a". The word for a property is "ajo".
 ### "i"
-When <i> is used at the end of a word or compound, it makes it plural. To say the word "plural noun" use "namo i". <ij@>, means "many", "very", and "a lot" depening on what @ is. Yes <mut-> has been deprecated.
+When "i" is used at the end of a word or compound, it makes it plural. To say the word "plural noun" use "namo i". "ij@", means "many", "very", and "a lot" depening on what @ is. Yes, "mut" has been deprecated.
 ### "u"
-When <u> is used at the end of a word or compound, it makes it a verb. To say the word "verb" use "namo u". <ujo>, means "process, or action". "ju" is the copula. "-ujo" can be used as a gerund and "-uja" for a participle; however, it should be noted that you often do not need these and can just use "-@" instead. It should only used when using the "o" or "a" forms of a word would make not make sense. For example, there is not a meaningful difference between "Ix amu mukujo", "Ix amu muku" and "Ix amu muko" (I like the process of eating, I like to eat, I like to eat and I like food.). These are these are technicly different, but all carry the same meaning.
+When "u" is used at the end of a word or compound, it makes it a verb. To say the word "verb" use "namo u". "ujo", means "process, or action". "ju" is the copula. "-ujo" can be used as a gerund and "-uja" for a participle; however, it should be noted that you often do not need these and can just use "-@" instead. It should only used when using the "o" or "a" forms of a word would make not make sense. For example, there is not a meaningful difference between "Ix amu mukujo", "Ix amu muku" and "Ix amu muko" (I like the process of eating, I like to eat, I like to eat and I like food.). These are these are technicly different, but all carry the same meaning.
 
 ### "e"
-When <e> is used at the end of a word or compound, it makes it an adverb. To say the word "adverb" use "namo e". The word for a manner or way is "ejo".
+When "e" is used at the end of a word or compound, it makes it an adverb. To say the word "adverb" use "namo e". The word for a manner or way is "ejo".
 
 ### "o"
-When <o> is used at the end of a word or compound, it makes it an noun. To say the word "noun" use "namo o". The word for thing is "ojo". 
+When "o" is used at the end of a word or compound, it makes it an noun. To say the word "noun" use "namo o". The word for thing is "ojo". 
 
 ## Numbers
 
