@@ -19,6 +19,12 @@ When "e" is used at the end of a word or compound, it makes it an adverb. To say
 ### "o"
 When "o" is used at the end of a word or compound, it makes it an noun. To say the word "noun" use "namo o". The word for thing is "ojo". 
 
+## Grammical words
+### ex
+"ex" is the equivlant of "(w)h*" in english. "ex" is most often used without an ending because it can be inferred from context. "Aq djelu exo?" means "You are doing what?". "Aq exu?" means the same thing. "Aq ju exa?" means "You are whaty." Think about it like. "What adjectives can describe you?" 
+### ka
+### kjo
+### tje
 ## Numbers
 
 ## Pronouns
