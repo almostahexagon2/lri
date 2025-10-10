@@ -22,9 +22,28 @@ When "o" is used at the end of a word or compound, it makes it an noun. To say t
 ## Grammical words
 ### ex
 "ex" is the equivlant of "(w)h*" in english. "ex" is most often used without an ending because it can be inferred from context. "Aq djelu exo?" means "You are doing what?". "Aq exu?" means the same thing. "Aq ju exa?" means "You are whaty." Think about it like. "What adjectives can describe you?" 
+### i
+"i" means and. 
+`ix havu pjuko i muko.` 
+`I have book and food.`
+"i" can be used to combine subjects, verbs, objects or sentences.
+### xau
+"xau" means xor.
+`Aq muku xau vidu.`
+`You are eating or seeing but you are not doing both.`
+### au
+"au" means xor.
+`Aq muku au vidu.`
+`You are eating or seeing but you can be doing both.`
 ### ka
-### kjo
+"ka" makes a statement into a question.
+`Aq havu pjuko ka?`
+`Do you have a book?`
 ### tje
+"tje" introduces context. The format is `"context" tje "statment"`.
+`Aq pajmuku tje, ix kepmuku.`
+`If you cook, I will eat.` 
+See the [main page](later.md).
 ## Numbers
 
 ## Pronouns
