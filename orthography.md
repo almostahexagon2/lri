@@ -41,6 +41,7 @@ LRI is designed to be written in the latin alphabet.
 Cyrillic
 ---
 This system is not standardized or meant to be used.
+
 | Sound | Glyph |
 | ---- | ---- |
 | p | п |
