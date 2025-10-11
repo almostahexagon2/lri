@@ -24,10 +24,10 @@ Less basic grammer
 ---
 ### Questions
 Yes or no questions are formed by using [ka](https://almostahexagon2.github.io/lri/#!././vocabulary.md#ka). 
-> `Aq wilu kepmuku.`
-> > You want to eat.
+> Aq wilu kepmuku.
+> You want to eat.
 
-> `Aq wilu kepmuku ka?`
-> > Do you want to eat?
+> Aq wilu kepmuku ka?
+>  Do you want to eat?
 
 
