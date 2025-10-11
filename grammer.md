@@ -24,10 +24,34 @@ Less basic grammer
 ---
 ### Questions
 Yes or no questions are formed by using [ka](https://almostahexagon2.github.io/lri/#!././vocabulary.md#ka). 
-> Aq wilu kepmuku.
-> You want to eat.
+`Aq wilu kepmuku.`
+`You want to eat.`
 
-> Aq wilu kepmuku ka?
->  Do you want to eat?
+`Aq wilu kepmuku ka?`
+`Do you want to eat?`
 
+### Commands
+Add `xo` after your subject to make a statement into a command. If your subject is already known, the subject can be removed.
+`Matji, xo muku.`
+`Parents, eat.`
 
+Comparisions
+---
+To say `X is more Y than Z`, use `X Yu ol Z`.
+`My apple is redder than your apple.`
+`Pomo ixa bolszeku ol pomo aqa`
+`My apple reds than yours`
+
+`Pomo ixa havu ij bolszeko ol pomo aqa.`
+`My apple has more red than yours.`
+
+To say some thing is less than or the same as something else, replace `ij` in the last example with `malij` or `sam`.
+`My apple is as red as yours.`
+`Pomo ixa havu sam bolszeko ol pomo aqa.`
+
+To say something is the most, or biggest, use `ol alo`.
+`ixaq havu ij sud ol alo`
+`we have more strenght then all`
+
+Prepositions
+----
