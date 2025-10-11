@@ -7,9 +7,9 @@ Phonology is the set of sounds in a language.
 |:--------- | ------ | ----- | ------ | ---- | ----- | ------- |
 | Plosive   |  p,b   |  t,d  |        |      |  k,g  |         |
 | Nasal     |   m    |  n    |        |      |       |         |
-| Fricative |  f,v   |  s,z  |  ഽ,ʒ   |      |   x   |   h     |
+| Fricative |  f,v   |  s,z  |  ഽ,ʒ (sz,rz)   |      |   x   |   h     |
 | Approx.   |   w    |  l    |        |  j   |       | |
-| Afr.      |        | ts,dz | tഽ,dʒ  |      |       | |
+| Afr.      |        | ts,dz (c,q) | tഽ,dʒ (cz,qz) |      |       | |
 | Rhotic    |        |   r   |        |      |       | |
 
 ## Vowels
