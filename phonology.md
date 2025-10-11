@@ -9,8 +9,9 @@ Phonology is the set of sounds in a language.
 | Nasal     |   m    |  n    |        |      |       |         |
 | Fricative |  f,v   |  s,z  |  ഽ,ʒ (sz,rz)   |      |   x   |   h     |
 | Approx.   |   w    |  l    |        |  j   |       | |
+| tap/flap    |        |   r   |        |      |       | |
 | Afr.      |        | ts,dz (c,q) | tഽ,dʒ (cz,qz) |      |       | |
-| Rhotic    |        |   r   |        |      |       | |
+
 
 ## Vowels
 LRI as the vowels, /a/, /i/, /u/, /e/ and /o/. and the dipthongs /ai/, /ei/, /oi/, and /au/.
