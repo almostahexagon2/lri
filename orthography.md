@@ -73,11 +73,13 @@ This system is not standardized or meant to be used.
 | ɯ | у |
 
 
-vimprepuno
+vimrepuno
 ---
+The vimrepuno is a syllabary that also uses [sitelen pona](https://sitelenpona.org/common.html) for affixes. A font was made for vimrepuno, but never a way to input it. [main page](vimrepuno.md)
 
 vimrepuno nova
 ---
+The vimrepuno is a segmental syllabary, or non linear alphabet, 
 
 hangul mallona
 ---
