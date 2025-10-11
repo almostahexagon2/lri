@@ -40,6 +40,38 @@ LRI is designed to be written in the latin alphabet.
 
 Cyrillic
 ---
+This system is not standardized or meant to be used.
+| Sound | Glyph |
+| ---- | ---- |
+| p | п |
+| b | б |
+| t | т |
+| d | д |
+| k | к |
+| g | г |
+| m | м |
+| n | н |
+| f | ф |
+| v | в |
+| s | с |
+| z | з |
+| ഽ | ш |
+| ʒ | ж |
+| x | х |
+| h | ҳ,хь,ь |
+| w | ў |
+| l | л |
+| j | й |
+| ts | ц |
+| dz | ѕ |
+| tഽ | ч |
+| dʒ | џ |
+| a | а |
+| e | е |
+| i | и |
+| o | о |
+| ɯ | у |
+
 
 vimprepuno
 ---
