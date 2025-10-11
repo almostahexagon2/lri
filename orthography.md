@@ -7,4 +7,4 @@ Orthography
 | vimruskijo | Cyrillic, with some extra charcters | Болшекисумантухи тйе, йу ийе ҳайа за ало. |
 | vimrepuno | Syllabary, with sitelen pona | |
 | vimrepuno nova | segmental syllabary with sitelen pona ||
-| hangul mallona | segmental syllabary ||
+| hangul mallona | segmental syllabary | ![](/uploads/imgs/orthography/hangul-mallona.jpg)|
