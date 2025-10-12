@@ -1,4 +1,4 @@
-# hangul mallona <img src="https://almostahexagon2.github.io/uploads/imgs/orthography/hangul-mallona/title.jpg" height=60 />
+# hangul mallona <img src="https://almostahexagon2.github.io/lri/uploads/imgs/orthography/hangul-mallona/title.jpg" height=60 />
 **hangul mallona** is a segmental syllabary created by evila-se on 2025-10-02
 
 ## Basic overview
