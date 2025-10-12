@@ -10,6 +10,11 @@ Note: You can click on images to view in fullscreen, use browser back to go back
 <img src="https://almostahexagon2.github.io/lri/uploads/imgs/orthography/hangul-mallona/overview-vowel-i-structure.png" width=300 title="vowels and structure" />
 <img src="https://almostahexagon2.github.io/lri/uploads/imgs/orthography/hangul-mallona/overview-alternate-i-j-i-splitting.png" width=300 title="alternate forms, ø/j, and syllable splitting" />
 
-Hint: ø denotes a silent letter (no sound). ø/j is silent at the beginning of a syllable (before vowel), and makes the /j/ sound at the end (after vowel)*
+Hint: ø denotes a silent letter (no sound). ø/j is silent at the beginning of a syllable (before vowel), and makes the /j/ sound at the end (after vowel)
 
 These 3 images describe most (if not all) of hangul mallona.
+
+## Names
+In vimrepuno and vimrepuno nova (confirm, i link later), a dot in the centre was used to separate names and titles(?). This also exists in hangul mallona, but it is optional.
+
+<img src="https://almostahexagon2.github.io/lri/uploads/imgs/orthography/hangul-mallona/dot-v-nami.jpg" width=300 title="øevilase and øevila•se" />
