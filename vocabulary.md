@@ -44,6 +44,8 @@ When "o" is used at the end of a word or compound, it makes it an noun. To say t
 `Aq pajmuku tje, ix kepmuku.`
 `If you cook, I will eat.` 
 See the [main page](later.md).
+### nj
+
 ## Numbers
 
 ## Pronouns
