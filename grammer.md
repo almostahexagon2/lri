@@ -56,6 +56,7 @@ To say something is the most, or biggest, use `ol alo`.
 Prepositions
 ----
 LRI prepositional phrases go after the noun the relate to.
+
 | prepostion | meaning | example | translation |
 | :---- | :---- | :---- | :---- |
 | ve | in | ix ve anakato | im in a place of anarchy |
