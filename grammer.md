@@ -63,7 +63,7 @@ Add `xo` after your subject to make a statement into a command. If your subject 
 
 Comparisions
 ---
-To say `X is more Y than Z`, use `X Yu ol Z`.
+To say `X is more Y than Z`, use `X ju ol Z`.
 `My apple is redder than your apple.`
 `Pomo ixa bolszeku ol pomo aqa`
 `My apple reds than yours`
@@ -76,8 +76,8 @@ To say some thing is less than or the same as something else, replace `ij` in th
 `Pomo ixa havu sam bolszeko ol pomo aqa.`
 
 To say something is the most, or biggest, use `ol alo`.
-`ixaq havu ij sud ol alo`
-`we have more strenght then all`
+`Ixaq havu ij sud ol alo`
+`We have more strength then all`
 
 Prepositions
 ----
