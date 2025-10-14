@@ -57,7 +57,7 @@ Prepositions
 ----
 LRI prepositional phrases go after the noun the relate to.
 
-| prepostion | meaning | example | translation |
+| Prepostion | Meaning | Example | Translation |
 | :---- | :---- | :---- | :---- |
 | ve | in | ix ve anakato | im in a place of anarchy |
 | da | from | Ix da anakato | Im from a place of anarchy |
@@ -71,3 +71,10 @@ LRI prepositional phrases go after the noun the relate to.
 | mut | More (than) |  |  |
 | son | about |  |  |
 
+Tone Indicators 
+---
+As of 2025-10-13, lri has grammitical tone indicators. 
+
+| Tone Ind. | Meaning | Example | Translation |
+| --------- | -------| ----- | ---- |
+| /tf | evan | do    | this  |
