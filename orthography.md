@@ -1,6 +1,10 @@
 Orthography
 ===
 
+Although the standard Latin alphabet has been used throughout this website, the original doc, and mostly everywhere, other systems/scripts have been created for style, speed, or just fun.
+
+Note: The sentence shown in each example is "***bolszekisumantuxi tje, ju ije haja za alo***".
+
 | System | Description | Example |
 | ------ | ----------- | ------- |
 | vimaisojo | The standard latin alphabet. | Bolszekisumantuxi tje, ju ije haja za alo. |
