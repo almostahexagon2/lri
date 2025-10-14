@@ -20,6 +20,9 @@ LRI is SOV. Lri is mostly head inital, however, affixes and verb prefixes are mo
 `lan+repun+id+o`
 Here, `lan+repun` is head inital, but `+ido` is head final. For more information on why this is, see [the histoy page](/history.md).
 
+Here is a table:
+later 
+
 Less basic grammer
 ---
 ### Questions
