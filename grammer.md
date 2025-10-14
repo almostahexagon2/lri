@@ -15,7 +15,7 @@ Basic grammer
 |  son,u (to know)  | \-u | verb |
 
 ### Word order
-LRI is SOV. Lri is mostly head inital, however, affixes and verb prefixes are mostly head final. Even though, the [LRI principle](later.md) says that all words should be treated the same, it is helpful to think of the suffixes and prefixes as a separate class just because they are head final. Technichly, word endings (a..o) could be though of as being in the suffix class because they are also head final.
+LRI is SVP. LRI is mostly head inital; however, affixes and verb prefixes are mostly head final. Even though, the [LRI principle](later.md) says that all words should be treated the same, it is helpful to think of the suffixes and prefixes as a separate class just because they are head final. Technichly, word endings (a..o) could be though of as being in the suffix class because they are also head final.
 
 `lan+repun+id+o`
 Here, `lan+repun` is head inital, but `+ido` is head final. For more information on why this is, see [the histoy page](/history.md).
