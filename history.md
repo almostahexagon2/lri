@@ -9,6 +9,11 @@ Lanrepunido means "successor of the language of good people", referring to lanre
 
 When LRI was created, repn was added, later, with much debate, it was changed to repun. more details about debate, phonotactics, ect
 
+Word Order
+---
+When lri was created, it was head initial, both in compound words and in phrases. Later(inculde date), prefixes and suffixes were added that where head final. This caused kunsi-sa to make the whole language head final. Kunsi-sa didn't actually like this (why, compuonds?), so he made it head initial again, except for the prefixes (mostly used on verbs at the time) and suffixes. According to him, it feels more natural, and more comprehensible. 
+
+
 
 
 smth about history of scripts
