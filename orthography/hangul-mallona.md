@@ -14,6 +14,8 @@ Hint: ø denotes a silent letter (no sound). ø/j is silent at the beginning of 
 
 These 3 images describe most (if not all) of hangul mallona.
 
+reformat later: aj is not considered 1 consonant, it's considered 2. ris ju j/nothing is considered consonant, even though it can make no sound
+
 ## Names
 In vimrepuno and vimrepuno nova (confirm, i link later), a dot in the centre was used to separate names and titles(?). This also exists in hangul mallona, but it is optional.
 
