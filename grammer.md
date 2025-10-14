@@ -15,13 +15,36 @@ Basic grammer
 |  son,u (to know)  | \-u | verb |
 
 ### Word order
-LRI is SOV. Lri is mostly head inital, however, affixes and verb prefixes are mostly head final.
+LRI is SOV. Lri is mostly head inital, however, affixes and verb prefixes are mostly head final. Even though, the [LRI principle](later.md)
 
 `lan+repun+id+o`
 Here, `lan+repun` is head inital, but `+ido` is head final. For more information on why this is, see [the histoy page](/history.md).
 
-Here is a table:
-later 
+| Prefix | Meaning | Example | Origin |
+| :---- | :---- | :---- | :---- |
+| rej | To do again | Rej,mis,paj,anaku \= to repeatedly fail to establish anarchism | esperanto |
+| paj | To make (something become) | paj,muku \= make food  | Toki pona “pali” |
+| xaj | To become  | xaj,sonu \= become knowing  | A priori |
+| mis | mis- (to do in the wrong way) | mis,lanu \= misspoke | Esperanto |
+| kep | To use/consume | kep,muku \= eat food | a priori |
+| dis | To emit or scatter | dis,muku \= give food | esperanto  |
+| kjen | Able to | kjen,paj,muku \= able to cook | Toki pona |
+| mal | The exact opposite of | mal,anakanto \= unanarchist | esperanto |
+
+These prefixes are appended to the front of the words they apply to, they are mostly for verbs, however, there are nouns like `paj+lan+o`, meaning conlang.
+
+| Suffix | Meaning | Example | Origin |
+| :---- | :---- | :---- | :---- |
+| \-ant- | One who | anak**ant**o \= anarchist | esperanto |
+| \-es- | Unit/part of | repn**es**o \= person | \<se\> from LR |
+| \-ux- | group/connection of | namuxo \= dictionary (word group) | a priori |
+| \-id- | child/successor of | lanrepunido | esperanto |
+| \-il- | Tool of | konp**il**o \= computer | esperanto |
+| \-at- | place/container/country of | Anak**at**o \= place of anarchism | A priori  |
+| \-ecz- | affectionate/diminutive | At**ecz**o \= micronation | A priori |
+| \-isum- | ism | anark**isum**o \= anarchism | english |
+
+These suffixes go on the end of what they modify, for example `pajlan+ant+ux+o` meaning, a group of conlangers.
 
 Less basic grammer
 ---
