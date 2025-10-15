@@ -19,7 +19,7 @@ When "u" is used at the end of a word or compound, it makes it a verb. To say th
 When "e" is used at the end of a word or compound, it makes it an adverb. To say the word "adverb" use "namo e". The word for a manner or way is "ejo".
 
 ### "o"
-When "o" is used at the end of a word or compound, it makes it an noun. To say the word "noun" use "namo o". The word for thing is "ojo". 
+When "o" is used at the end of a word or compound, it makes it an noun. To say the word "noun" use "namo o". The word for thing is "ojo". "-ojo" means "thing of". For example, "stelojo" is a physical star, like our sun, while "stelo" (is a common esperanto name), only represents the shape of a star.
 
 ## Grammical words
 ### ex
