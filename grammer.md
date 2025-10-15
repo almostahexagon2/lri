@@ -63,7 +63,7 @@ Add `xo` after your subject to make a statement into a command. If your subject 
 
 Comparisions
 ---
-To say `X is more Y than Z`, use `X ju ol Z`.
+To say `X is more Y than Z`, use `X ju Y ol Z` or `X havu ij Y ol Z`
 `My apple is redder than your apple.`
 `Pomo ixa bolszeku ol pomo aqa`
 `My apple reds than yours`
