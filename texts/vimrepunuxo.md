@@ -25,10 +25,10 @@ Kunnico
 #### Da: kunsi-sa, 2025-10-1*
 
 wej kunsi-sa lanu [Lanbolszekuno]() ve mila-se tje, kunnico.
-kunnico tje, kirisu-sa, evila-sa, kunsi-sa, kairu-sa, i kupaj-sa.
+kunnico tje, kirisu-sa, evila-sa, kunsi-sa, kairu-sa, i kupaj-se.
 kunnico ve eta Domato: “supmukbolszekuxo”
 zuno ija tje, eti disnamu “Huljajpole” til “Domoato”.
-remkjo tje, eti nje havu namo.
+remkjo tje, eti nje havu namo,
 tas, eti havu isumo.
 isumo eta ju bolszekisumo.
 eti Lanu: “za bolsekisumo!”.
@@ -38,13 +38,15 @@ eti Lanu tje, eti tilu “Vimo” til kajo kep pajiso.
 domxajsono eta havu Lawo: “Hazlet-szi”.
 eti ala malamu ije “Lawo”.
 eti wilu weku “Lawo”.
+kupaj-se malamu ije "Isumo",
+tas, et-se wilu weku "Lawo" 
 eti havu tinki malkja i malkirosa.
 
 kjo tje, eti pilu haja.
 eti wilu paju.
 kjo tje, Repuno nicu.
 
-Pjukanarkismu 
+Pjukanarkisumo 
 ---
 #### Da: kunis-sa, 2025-10-16
 djen ve szakon-se, tje kirisu-sa havu pjuko: "pjukanarkisumo".
