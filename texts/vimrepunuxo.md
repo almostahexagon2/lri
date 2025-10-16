@@ -12,13 +12,11 @@ Ix nidu paju namkuni ris kjo.
 !Xo ivanu!
 
 ### Isumo Vimo (kjenmalsamu)
-"**Czasznama**"
+"Czasznama"
 
 **Czasznama**
 
 「vimlana」
-
-"vimlana"
 
 'vimlana'
 
@@ -45,4 +43,16 @@ eti havu tinki malkja i malkirosa.
 kjo tje, eti pilu haja.
 eti wilu paju.
 kjo tje, Repuno nicu.
+
+Pjukanarkismu 
+---
+#### Da: kunis-sa, 2025-10-16
+djen ve szakon-se, tje kirisu-sa havu pjuko: "pjukanarkisumo".
+szakon-se wilvidu Pjuko.
+szakon-se tilu til kirisu-sa
+Et-se lanu til Et-sa "xo disu, (make this sentence seem nicer, cuz he asked nicely)"
+Et-sa disu Pjuko til Et-se.
+Eti tilu til domo malinso.
+Eti lanu.
+Ixi nje sonu aqa lano.
 
