@@ -63,6 +63,12 @@ See the [main page](later.md).
 
 ### nj
 
+### xo
+"xo" turns a statement into a command. "xo" is put between the subject and the verb.
+`Aq xo havu pjuko.`
+`You, have a book.`
+It can be simplified to `Xo havu pjuko.` if your subject is already known.
+
 ## Numbers
 
 ## Pronouns
