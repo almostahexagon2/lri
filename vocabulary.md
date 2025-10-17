@@ -62,7 +62,14 @@ When "o" is used at the end of a word or compound, it makes it an noun. To say t
 See the [main page](later.md).
 
 ### nj
-
+"nj-" comes from the russian word "не". "nje" can negate a sentence. "nja" means none of and "njo" means nothing. "nj" on its own means no.
+`Ix nje havu pjuko.`
+`I do not have a book.`
+`Ix havu pjuko nja.`
+`I have no books`
+`Ix havu njo.`
+`I have nothing.`
+ 
 ### xo
 "xo" turns a statement into a command. "xo" is put between the subject and the verb.
 `Aq xo havu pjuko.`
