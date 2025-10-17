@@ -2,11 +2,19 @@
 
 LRI is highhly [aggultinative](https://en.wikipedia.org/wiki/Agglutinative_language), meaning that words are combined together to produce bigger words. Even simple words like "lanu" should be thought as "lan+u". For more information on this see [the grammer section](grammer.md).
 
+## Rules for new roots
+For a root to be added, it must meet several requirenments:
+
+1. Be hard, impractical or impossible to express with a compound or preexisting roots. For example, "shirt" can be "fjak-" or "fjakrzivis-".
+2. Be a someting that is commonly said by is speakers or useful to write down. While "Hypothermia" is hard to express, but not commonly said or needed to be written.
+3. Do not make roots that should be 2 or more roots. If hypothermia was to be commonly said, a root for sickness should be created and be combined with "malheis-"
+4. When a root is added, it should not be hard to say or write. Examples of bad roots are "zunkunft" and "dostoprimeiczatelnost-". The former was changed, while the second is a joke word, like toki pona's "kijetasantakalu".
+
 ## Structure
 Each word will have its own section, each section will have what the word will mean as a noun, verb, adjective, adverb, preposition, or used in a compound or interjection. Example sencences and common phrases will also be included. "@" means any vowel normaly one of the simple endings. "-lkdfsa" indicates "lkdfsa" at the end of a word or compound. 
 
 ## Simple Endings
-### "a"
+### "a
 When "a" is used at the end of a word or compound, it makes it an adjective. To say the word "adjective" use "namo a". The word for a property is "ajo".
 
 ### "i"
