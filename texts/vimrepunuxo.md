@@ -57,4 +57,5 @@ Et-sa disu Pjuko til Et-se.
 Eti tilu til domo malinso.
 Eti lanu.
 Ixi nje sonu aqa lano.
+(add more later)
 
