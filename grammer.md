@@ -85,16 +85,16 @@ LRI prepositional phrases go after the noun the relate to.
 
 | Prepostion | Meaning | Example | Translation |
 | :---- | :---- | :---- | :---- |
-| ve | in | ix ve anakato | im in a place of anarchy |
-| da | from | Ix da anakato | Im from a place of anarchy |
-| kep | using |  |  |
-| kun | with | ix kun  |  |
-| kirik | against | ix kirik aq |  |
-| sam | similar | ix-aq sam |  |
+| ve | in, at, on | ix ve anakato | Im **in** a place of anarchy |
+| da | from | Ix da anakato | Im **from** a place of anarchy |
+| kep | using | ix kiriku kep kirikilo | I fight **using** a tool |
+| kun | with | ix **kun** ixa repuneso | Im **with** a friend |
+| kirik | against | ix **kirik** aq |  |
+| sam | similar | ix-aq sam eti | we are **similar** (to) them |
 | ris | because |  |  |
 | za | for |  | Russian за |
 | til | to |  |  |
-| mut | More (than) |  |  |
+| mut | more (than) |  |  |
 | son | about |  |  |
 
 Tone Indicators 
