@@ -1,4 +1,4 @@
-Vimrepunuxo (tasu v LRI)
+Pjukuxorepuno (tasu v LRI)
 ===
 
 !Sono Sinifa!
@@ -52,10 +52,15 @@ Pjukanarkisumo
 djen ve szakon-se, tje kirisu-sa havu pjuko: "pjukanarkisumo".
 szakon-se wilvidu Pjuko.
 szakon-se tilu til kirisu-sa
-Et-se lanu til Et-sa "xo disu, (make this sentence seem nicer, cuz he asked nicely)"
-Et-sa disu Pjuko til Et-se.
+Se lanu til Et-sa "xo disu, (make this sentence seem nicer, cuz he asked nicely)"
+Sa disu Pjuko til Et-se.
 Eti tilu til domo malinso.
 Eti lanu.
 Ixi nje sonu aqa lano.
-(add more later)
+
+Sa tilu til Domlawo.
+Sa i kota-szi lanu.
+(smth abt gregtech)
+(smth about him pretending his mom only spoke chinese)
+(remo vimujo tje, kirisu-sa nje wilu dissonu son kjo)
 
