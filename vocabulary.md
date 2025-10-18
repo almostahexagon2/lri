@@ -14,7 +14,7 @@ For a root to be added, it must meet several requirenments:
 Each word will have its own section, each section will have what the word will mean as a noun, verb, adjective, adverb, preposition, or used in a compound or interjection. Example sencences and common phrases will also be included. "@" means any vowel normaly one of the simple endings. "-lkdfsa" indicates "lkdfsa" at the end of a word or compound. 
 
 ## Simple Endings
-### "a
+### "a"
 When "a" is used at the end of a word or compound, it makes it an adjective. To say the word "adjective" use "namo a". The word for a property is "ajo".
 
 ### "i"
