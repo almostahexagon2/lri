@@ -97,6 +97,25 @@ LRI prepositional phrases go after the noun the relate to.
 | mut | more (than) |  |  |
 | son | about |  |  |
 
+Subordinate Clauses
+---
+According to the original doc, LRI subordinate clauses were unmaked. However, when sentences become more complex, then they are marked, mostly in questions. 
+
+| Style | Example | Extra |
+| ----- | ------- | ----- |
+| unmarked | ix sonu repuno haja zivu | |
+| marked | ix sonu kjo: repuno haja zivu | A newline usally procedes the semicolon |
+
+ ### Relative Clauses
+ LRI does not have relative clauses because they can be easily expressed in 2 sentences or using `tje`. For the last example, It is acceptable to use a `,` insted of `:`.  Yes, the last two examples are basicly the same thing. Kunsi-sa would consider using `tje` to be the most "LRI like" and "proper".
+ 
+| Language | Meaning |
+| ----  | ----- |
+| English | I see the kid who has the red ball. |
+| Using `tje` | Ido kjo havu balo bolszeka tje, Ix vidu et. |
+| 2 Sentences | Ix vidu ido kjo. Et havu balo bolszeka. |
+| Using `:` | Ix vidu ido kjo: et havu balo bolszeka. | 
+
 Tone Indicators 
 ---
 As of 2025-10-13, lri has grammitical tone indicators. 
