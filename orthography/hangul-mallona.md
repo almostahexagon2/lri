@@ -16,7 +16,7 @@ These 3 images describe most (if not all) of hangul mallona.
 
 reformat later: aj is not considered 1 consonant, it's considered 2. ris ju j/nothing is considered consonant, even though it can make no sound
 
-## Names
-In vimrepuno and vimrepuno nova (confirm, i link later), a dot in the centre was used to separate names and titles(?). This also exists in hangul mallona, but it is optional.
+## puko (dot)
+A centre dot acts like - and ' in vimaisojo. It is used (optionally) to separate names and titles(?), and like ' in songs (to fit a specific rhythm).
 
 <img src="https://almostahexagon2.github.io/lri/uploads/imgs/orthography/hangul-mallona/dot-v-nami.jpg" width=300 title="øevilase and øevila•se" />
