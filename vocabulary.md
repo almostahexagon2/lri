@@ -33,6 +33,7 @@ The full @j@
 ---
 
 (the top is the first @ and the side is the second @)
+
 | -  |  a             |  o         |  i             |   u                            |  e  |
 | -- | -------------- | ---------- | -------------- | ------------------------------ | --- |
 | a  | adjective-like | thing-like | many           | action-like, participle suffix | manner-like |
