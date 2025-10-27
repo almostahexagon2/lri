@@ -1,4 +1,5 @@
- # All of the LRI vocab, in one place.
+Vocabulary
+===
 
 LRI is highly [aggultinative](https://en.wikipedia.org/wiki/Agglutinative_language), meaning that words are combined together to produce bigger words. Even simple words like "lanu" should be thought as "lan+u". For more information on this see [the grammer section](grammer.md).
 
@@ -11,7 +12,7 @@ For a root to be added, it must meet several requirenments:
 4. When a root is added, it should not be hard to say or write. Examples of bad roots are "zunkunft" and "dostoprimiczatelnost-". The former was changed, while the second is a joke word, like toki pona's "kijetasantakalu".
 
 ## Structure
-Each word will have its own section, each section will have what the word will mean as a noun, verb, adjective, adverb, preposition, or used in a compound or interjection. Example sencences and common phrases will also be included. "@" means any vowel normaly one of the simple endings. "-lkdfsa" indicates "lkdfsa" at the end of a word or compound. 
+This section is describes how words work that would not belong in the dictionary. "@" means any vowel normaly one of the simple endings. "-lkdfsa" indicates "lkdfsa" at the end of a word or compound. 
 
 ## Simple Endings
 ### "a"
