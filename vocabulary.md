@@ -29,6 +29,16 @@ When "u" is used at the end of a word or compound, it makes it a verb. To say th
 ### "e"
 When "e" is used at the end of a word or compound, it makes it an adverb. To say the word "adverb" use "namo e". The word for a manner or way is "ejo".
 
+The full @j@
+---
+
+(the top is the first @ and the side is the second @)
+| -  |  a             |  o         |  i   |   u |  e  |
+| -- | -------------- | ---------- | ---- | --- | --- |
+| a  | adjective-like | thing-like | many | 
+
+
+
 ## Grammical words
 ### ex
 "ex" is the equivlant of "(w)h*" in english. "ex" is most often used without an ending because it can be inferred from context, however endings can still be used. "Aq djelu exo?" means "You are doing what?". "Aq exu?" means the same thing. "Aq ju exa?" means "You are whaty?". Think about it like "What adjectives can describe you?". 
