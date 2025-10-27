@@ -1,4 +1,4 @@
-# All of the LRI vocab, in one place.
+ # All of the LRI vocab, in one place.
 
 LRI is highly [aggultinative](https://en.wikipedia.org/wiki/Agglutinative_language), meaning that words are combined together to produce bigger words. Even simple words like "lanu" should be thought as "lan+u". For more information on this see [the grammer section](grammer.md).
 
@@ -33,9 +33,13 @@ The full @j@
 ---
 
 (the top is the first @ and the side is the second @)
-| -  |  a             |  o         |  i   |   u |  e  |
-| -- | -------------- | ---------- | ---- | --- | --- |
-| a  | adjective-like | thing-like | many | 
+| -  |  a             |  o         |  i             |   u                            |  e  |
+| -- | -------------- | ---------- | -------------- | ------------------------------ | --- |
+| a  | adjective-like | thing-like | many           | action-like, participle suffix | manner-like |
+| o  | a property     | a thing    | a large amount | a action, gerund suffix        | a manner/way |
+| i  | properties     | things     | large amounts  | actions, pl. gerund suffix     | manners/ways |
+| u  | to be a property | to be a thing, to exist | to be alot of | to be an action | to be a manner/way |
+| e  |    adjectively  | thingly |  very             | acionly                       | mannerly | 
 
 
 
