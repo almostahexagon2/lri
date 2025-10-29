@@ -17,7 +17,7 @@ sonu aq tje,
 sonu heisojo
 ju ins aqo.
 
-kozaki xo, xo, xo havu czaszi.
+kozakici xo, xo disu czaszi.
 natasza-sa, aj, aj, aq haju.
 saji, xo keptelu za rzivo.
 saji, xo za rzivo ixa.
@@ -45,7 +45,10 @@ aq da malzuno.
 da rem carisumo.
 aq bolszeku.
 moskvo,
-ic sonu aqo tje,
-sonu amo
+ic' sonu aqo tje,
+sonu amo heisa.
+amo heisu.
+
+
 
 
