@@ -20,4 +20,4 @@ These 3 images describe most (if not all) of hangul mallona.
 A centre dot acts like `-` au `'` in vimaisojo. It is used (optionally) to separate names i titles(?), i like `'` in songs (to fit a specific rhythm).
 
 <img src="https://almostahexagon2.github.io/lri/uploads/imgs/orthography/hangul-mallona/dot-v-nami.jpg" width=300 title="øevilase i øevila•se" />
-<img src="https://almostahexagon2.github.io/lri/uploads/imgs/orthography/hangul-mallona/dot-v-word.jpg" width=300 title="tolnajo i tolnaj•" />
+<img src="https://almostahexagon2.github.io/lri/uploads/imgs/orthography/hangul-mallona/dot-v-word.png" width=300 title="tolnajo i tolnaj•" />
