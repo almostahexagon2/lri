@@ -40,5 +40,12 @@ xo, tilmusu v supmuk'.
 tas, supmuk' ju xajmisu.
 xa, xa, xa, xa, xa, aj!
 
+moskvo,
+aq da malzuno.
+da rem carisumo.
+aq bolszeku.
+moskvo,
+ic sonu aqo tje,
+sonu amo
 
 
