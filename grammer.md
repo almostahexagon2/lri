@@ -97,6 +97,10 @@ LRI prepositional phrases go after the noun the relate to.
 | mut | more (than) |  |  |
 | son | about |  |  |
 
+The prepositions "ve" and "til" are often shortend to "v" and "t" when typed. They are often pronounced as part of the next word, so `ve putjo` is shortend to `v putjo` and pronounced /f_putjo/.  The preposition will devoice if preceded by a voiceless consonat and will voice before a voiced consonant.
+
+Ve can also be used to form the present progressive tense when put before a verb.
+
 Subordinate Clauses
 ---
 According to the original doc, LRI subordinate clauses were unmaked. However, when sentences become more complex, then they are marked, mostly in questions. 
