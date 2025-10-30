@@ -98,3 +98,4 @@ It can be simplified to `Xo havu pjuko.` if your subject is already known.
 ## Pronouns
 
 ## Everything else
+Veiw the full dictionary at [lri.pages.dev](lri.pages.dev).
