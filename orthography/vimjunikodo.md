@@ -4,7 +4,7 @@ Vimjunikodo is a alphabet inspired by kokanu's likanu script. It uses random Uni
 
 |           | Labial |  Alv  |  Pstlv |  Pal | Velar | Glottal |
 |:--------- | ------ | ----- | ------ | ---- | ----- | ------- |
-| Plosive   |  p,b   |  t,d  |        |      |  Ꞁ,Γ  |         |
+| Plosive   |  p,b   |  Т,Ʇ  |        |      |  Ꞁ,Γ  |         |
 | Nasal     |   m    |  n    |        |      |       |         |
 | Fricative |  f,v   |  ȷ,ı  |  ʃ,ſ   |      |   x   |   h     |
 | Approx.   |   Љ    |  l    |        |  Њ   |       | |
