@@ -6,7 +6,7 @@ Vimjunikodo is a alphabet inspired by kokanu's likanu script. It uses random Uni
 |:--------- | ------ | ----- | ------ | ---- | ----- | ------- |
 | Plosive   |  П,Б   |  Т,Ʇ  |        |      |  Ꞁ,Γ  |         |
 | Nasal     |   m    |  n    |        |      |       |         |
-| Fricative |  f,v   |  ȷ,ı  |  ʃ,ſ   |      |   Х   |   h     |
+| Fricative |  Ь,В   |  ȷ,ı  |  ʃ,ſ   |      |   Х   |   h     |
 | Approx.   |   Љ    |  l    |        |  Њ   |       | |
 | tap/flap  |        |   Ɥ   |        |      |       | |
 | Afr.      |        | Ц,Ꙡ   |(cz,qz) |      |       | |
