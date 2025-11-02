@@ -1,16 +1,47 @@
 kirikilo repuno
 ====
-Translation of "Bosanska Artiljerija", here "kirikilo" refers to kirisu-sa's cannon in culasguliko.
+Translation of "Bosanska Artiljerija", here "Kirikilo" refers to kirisu-sa's cannon in culasguliko.
 
 muziko
 ----
 saji xaju kuno, tje paju Repuno.
 remal' tje, ix awu kjo.
-Repuno ixeta kiriku 
-tje, ix pobjedu ve kjo.
+Repuno ixeta kiriku tje,
+ix pobjedu ve kjo.
 
-Repuno ixeta kiriku 
-tje, ix pobjedu ve kjo.
+Repuno ixeta kiriku tje, 
+ix pobjedu ve kjo.
 
-evila-sa, kupaj-szi, kunsi-sa y kirisu-'
-tje, 
+evila-sa y edi-sa y kunsi-sa y kiris'-sa.
+Repuno ju ici kja.
+szakon-szi y gulik-szite y nita-se y wong-szi.
+Repuno malamu kji.
+
+Kirikilo kjo! ixaq ju ve Repuno.
+Kirikilo kjo! ixaq ju ve Repuno.
+ixa Repuno haju!
+
+Kirikilo kjo! ixaq ju ve Repuno.
+Kirikilo kjo! ixaq ju ve Repuno.
+ixa Repuno haju!
+
+saji xaju kuno, tje paju Repuno.
+remal' tje, ix awu kjo.
+Repuno ixeta kiriku tje,
+ix pobjedu ve kiriko.
+
+Repuno ixeta kiriku tje, 
+ix pobjedu ve kjo.
+
+evila-sa y kupaj-szi y kunsi-sa y kiris'-sa.
+Repuno ju ici kja.
+szakon-szi y gulik-szite y nita-se y wong-szi.
+Repuno malamu kji.
+
+Kirikilo kjo! ixaq ju ve Repuno.
+Kirikilo kjo! ixaq ju ve Repuno.
+ixa Repuno haju!
+
+Kirikilo kjo! ixaq ju ve Repuno.
+Kirikilo kjo! ixaq ju ve Repuno.
+ixa Repuno haju!
