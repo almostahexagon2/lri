@@ -7,10 +7,10 @@ muziko
 saji xaju kuno, tje paju Repuno.
 remal' tje, ix awu kjo.
 Repuno ixeta kiriku tje,
-ix pobjedu ve kjo.
+ix pobjedu ve kiriko.
 
 Repuno ixeta kiriku tje, 
-ix pobjedu ve kjo.
+ix pobjedu ve kiriko.
 
 evila-sa y edi-sa y kunsi-sa y kiris'-sa.
 Repuno ju ici kja.
@@ -31,7 +31,7 @@ Repuno ixeta kiriku tje,
 ix pobjedu ve kiriko.
 
 Repuno ixeta kiriku tje, 
-ix pobjedu ve kjo.
+ix pobjedu ve kiriko.
 
 evila-sa y kupaj-szi y kunsi-sa y kiris'-sa.
 Repuno ju ici kja.
