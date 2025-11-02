@@ -12,8 +12,8 @@ Vimaisojo (normal script)
 | tap/flap    |        |   r   |        |      |       | |
 | Afr.      |        | ts,dz (c,q) | tഽ,dʒ (cz,qz) |      |       | |
 
-Letters not in parens are IPA, letters in () are orthography. \<z> can be thought of as moving the sound one column back. 
-Originaly, \<qz> was written \<dz>, but was changed to for consistency. The 5 vowels are written as they are in the IPA.
+Letters not in parens are IPA, letters in () are orthography. \<z\> can be thought of as moving the sound one column back. 
+Originaly, \<qz\> was written \<dz\>, but was changed to for consistency. The 5 vowels are written as they are in the IPA.
 
 Order
 ----
