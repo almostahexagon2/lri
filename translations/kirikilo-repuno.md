@@ -11,3 +11,6 @@ tje, ix pobjedu ve kjo.
 
 Repuno ixeta kiriku 
 tje, ix pobjedu ve kjo.
+
+evila-sa, kupaj-szi, kunsi-sa y kirisu-'
+tje, 
