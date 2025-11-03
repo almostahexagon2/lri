@@ -2,29 +2,29 @@
 
 idi ala, xo xajlanu lano da ixo.   
 idi ala, repunesi za 「USSR」.  
-ix nidu lanu til aqo son tolnajesuxo.  
-kjo nidu paju i dissonu til iduxo. 
+ix nidu lanu til aqi son tolnajesuxo.  
+kjo nidu paju i dissonu til ixa iduxo. 
 
 ## Pre chorus
 
-alixi luku mute (ve Fe De Je )  
-alixi doiczu mute (ve Fe De Je)  
-alixi nova mute (ve Fe De Je)  
-alixi kunu mute (ve Fe De Je)  
-Ex tje, idi ati malkjo nje wilu tilu til ixo,  
+ixaqet luku mute (ve Fe De Je )  
+ixaqet doiczu mute (ve Fe De Je)  
+ixaqet nova mute (ve Fe De Je)  
+ixaqet kunu mute (ve Fe De Je)  
+ex tje, idi ati malkjo nje wilu tilu til ixo,  
 mal’ tasa nje wilu tilu.  
-malkjo tje, alxi ju 「Novuxo Doicza Luka 」\!
+malkjo tje, ixet ju 「Novuxo Doicza Luka 」\!
 
 ## Chorus
 
-Nic’, un’, diva, tolnaj’ ju haja.  
+nic’, un’, diva, tolnaj’ ju haja.  
 En tir, fur, hir, sonu haja.  
-Kun kiw’ i rok’ 「varszava  pak」,  
+kun kiw’ i rok’ 「varszava  pak」,  
 en seb za aqo\!  
 A-B-C, kiriku sude.  
 I D-E-F, putjo haja.  
-Kun G-H i I ris:「demokrati」.  
-En J kjo ju FDJ.
+kun G-H i I ris:「demokrati」.  
+en J kjo ju FDJ.
 
 ## Bridge
 
