@@ -7,10 +7,10 @@ kjo nidu paju i dissonu til ixa iduxo.
 
 ## Pre chorus
 
-ixaqet luku mute (ve Fe De Je )  
-ixaqet doiczu mute (ve Fe De Je)  
-ixaqet nova mute (ve Fe De Je)  
-ixaqet kunu mute (ve Fe De Je)  
+ixeti luku mute (ve Fe De Je )  
+ixeti doiczu mute (ve Fe De Je)  
+ixeti nova mute (ve Fe De Je)  
+ixeti kunu mute (ve Fe De Je)  
 ex tje, idi ati malkjo nje wilu tilu til ixo,  
 mal’ tasa nje wilu tilu.  
 malkjo tje, ixet ju 「Novuxo Doicza Luka 」\!
@@ -18,7 +18,7 @@ malkjo tje, ixet ju 「Novuxo Doicza Luka 」\!
 ## Chorus
 
 nic’, un’, diva, tolnaj’ ju haja.  
-En tir, fur, hir, sonu haja.  
+tir, fur, hira, sonu haja.  
 kun kiw’ i rok’ 「varszava  pak」,  
 en seb za aqo\!  
 A-B-C, kiriku sude.  
@@ -28,8 +28,8 @@ en J kjo ju FDJ.
 
 ## Bridge
 
-Ix ju id’ tje, Ix ju za erenst talman-sa.  
-Kjo tje, ix ju ve 「Novuxo Doicza Luka 」
+ix ju id’ tje, ix ju za erenst talman-sa.  
+kjo tje, ix ju ve 「Novuxo Doicza Luka 」
 
 ## Chorus
 
@@ -52,11 +52,11 @@ Bolszekisumo, stalinisumo, lenin-sa i kiriko.
 
 ## Pre chorus
 
-Alixi luku mute (ve FDJ)  
-Alixi doiczu mute (ve FDJ)  
-Alixi nova mute (ve FDJ)  
-Alixi kunu mute (ve FDJ)  
-Ex tje, idi ati malsama nje wilu tilu til ixo,  
+ixeti luku mute (ve FDJ)  
+ixeti doiczu mute (ve FDJ)  
+ixeti nova mute (ve FDJ)  
+ixeti kunu mute (ve FDJ)  
+ex tje, idi ati malsama nje wilu tilu til ixo,  
 mal’ tasa nje wilu tilu.  
 malsami tje, alxi ju 「Novuxo Doicza Luka 」\!
 
