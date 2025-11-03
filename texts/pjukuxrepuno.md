@@ -48,7 +48,7 @@ kjo tje, Repuno nicu.
 
 Pjukanarkisumo 
 ---
-#### Da: kunis-sa, 2025-10-16
+#### Da: kunis-sa, 2025-10-16, son 2024-9-xx
 djen ve szakon-se, tje kirisu-sa havu pjuko: "pjukanarkisumo".
 szakon-se wilvidu Pjuko.
 szakon-se tilu til kirisu-sa
@@ -64,3 +64,16 @@ Sa i kota-szi lanu.
 (smth about him pretending his mom only spoke chinese)
 (remo vimujo tje, kirisu-sa nje wilu dissonu son kjo)
 
+
+Qzakob-szite
+---
+#### Da kunsi-sa, 2025-11-03, son 2025-11-03 i djeno ija
+djeno v Domatnovo tje, qzakob-szite tilu t kjo.
+Szite ikgraftu czaszteli i czaszmuki.
+Repunesi malamu et ris kjo.
+Repunesi wilu xajweku Szite.
+kirisu-sa i kunsi-sa kepu czaszteli za kirikili.
+kjo tje, saji nje disu telo til Szite.
+kailu-czasztelxajmalaisojo havu pjuko: "pomeczi kep vimi fika".
+kirisu-sa wilu xajmisu Pjuko.
+kirisu-sa disu telu kep czaszteli til Pjuko.
