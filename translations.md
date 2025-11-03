@@ -6,6 +6,7 @@ White Army, Black Baron
 
 FDJ
 ---
+[song here](translations/fdj.md)
 
 Aj, pomeczi!
 ---
