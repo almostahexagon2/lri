@@ -69,7 +69,7 @@ Qzakob-igraiftu-szite
 ---
 #### Da kunsi-sa, 2025-11-03, son 2025-11-03 i djeno ija
 djeno v Domatnovo tje, qzakob-igraiftu-szite tilu t kjo.
-Szite ikgraftu czaszteli i czaszmuki.
+Szite ikgraftu czaszteli i czaszmuki i fjakisi.
 Repunesi malamu et ris kjo.
 Repunesi wilu xajweku Szite.
 kirisu-sa i kunsi-sa kepu czaszteli za kirikili.
