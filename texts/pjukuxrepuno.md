@@ -65,10 +65,10 @@ Sa i kota-szi lanu.
 (remo vimujo tje, kirisu-sa nje wilu dissonu son kjo)
 
 
-Qzakob-szite
+Qzakob-igraiftu-szite
 ---
 #### Da kunsi-sa, 2025-11-03, son 2025-11-03 i djeno ija
-djeno v Domatnovo tje, qzakob-szite tilu t kjo.
+djeno v Domatnovo tje, qzakob-igraiftu-szite tilu t kjo.
 Szite ikgraftu czaszteli i czaszmuki.
 Repunesi malamu et ris kjo.
 Repunesi wilu xajweku Szite.
