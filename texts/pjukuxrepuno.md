@@ -48,7 +48,7 @@ kjo tje, Repuno nicu.
 
 Pjukanarkisumo 
 ---
-#### Da: kunis-sa, 2025-10-16, son 2024-9-xx
+#### Da: kunis-sa, 2025-10-16, son 2024-09-xx
 djen ve szakon-se, tje kirisu-sa havu pjuko: "pjukanarkisumo".
 szakon-se wilvidu Pjuko.
 szakon-se tilu til kirisu-sa
