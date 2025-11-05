@@ -52,16 +52,17 @@ Pjukanarkisumo
 djen ve szakon-se, tje kirisu-sa havu pjuko: "pjukanarkisumo".
 szakon-se wilvidu Pjuko.
 szakon-se tilu til kirisu-sa
-Se lanu til Et-sa "xo disu, (make this sentence seem nicer, cuz he asked nicely)"
-Sa disu Pjuko til Et-se.
-Eti tilu til domo malinso.
-Eti lanu.
+Se lanu: "ix wilu vidu pjuko aqa" til Sa.
+Sa disu Pjuko til se ris kjo: Sa nje sonu pjuko ju Pjuko.
+eti tilu til malinso domo.
+eti lanu.
 Ixi nje sonu aqa lano.
 
-Sa tilu til Domlawo.
-Sa i kota-szi lanu.
-(smth abt gregtech)
-(smth about him pretending his mom only spoke chinese)
+Sa tilu til domLawo.
+matjo Sa tilu til domLawo.
+eti i Kota-szi lanu.
+kirusi lanu kjo: "matjo ixa malkjenlanu kep lanKupajo" ris Sa wilu lanu til matjo i malwilu Szi kiku.
+
 (remo vimujo tje, kirisu-sa nje wilu dissonu son kjo)
 
 
