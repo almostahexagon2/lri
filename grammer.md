@@ -96,10 +96,14 @@ LRI prepositional phrases go after the noun the relate to.
 | til | to |  |  |
 | mut | more (than) |  |  |
 | son | about |  |  |
+| xe  | in    |  |  |
 
 The prepositions "ve" and "til" are often shortend to "v" and "t" when typed. They are often pronounced as part of the next word, so `ve putjo` is shortend to `v putjo` and pronounced /f_putjo/.  The preposition will devoice if preceded by a voiceless consonat and will voice before a voiced consonant.
 
 The prepositions `da`, `ve`, and `til` can be used to form tenses when put before a verb. `ix ve muku` means "I am eating", `ix til muku` means "I will eat" and `ix da muku` means "I ate".
+
+### xe vs ve
+`xe` is used for non absolute time. `ix paju kjo xe djeno uno.` means "I will do this tomorrow( in one day)" while `ix paju kjo ve djeno uno` means "I will do it over the course of one day." For actions in the past, you can make the quanitity of time negative.
 
 Subordinate Clauses
 ---
