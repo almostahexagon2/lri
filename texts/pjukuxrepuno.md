@@ -77,3 +77,5 @@ kjo tje, saji nje disu telo til Szite.
 kailu-czasztelxajmalaisojo havu pjuko: "pomeczi kep vimi fika".
 kirisu-sa wilu xajmisu Pjuko.
 kirisu-sa disu telu kep czaszteli til Pjuko.
+kirisu-sa xajmisu Pjuko, tas et disu telo til Szite.
+szite i saji kiriku.
