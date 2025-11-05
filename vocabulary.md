@@ -96,6 +96,14 @@ It can be simplified to `Xo havu pjuko.` if your subject is already known.
 ## Numbers
 
 ## Pronouns
+LRI has 4 base pronouns:
+
+| Person | Word  |
+| - | -- | 
+| 1 | ix |
+| 2 | aq |
+| 3 | et/kj- |
+`kj-` means "this", "that" or is the 3rd person inanimate pronoun. `kj-` has a `-` because it needs a word ending. `ixaq` is inclusive and `ixet` is exclusive. They were original spelled `ix-aq` and `ix-et`, but the `-` was lost. Possesives can be formed with `-a` and plurals can be formed with `-i`. (nobody's ever done this before, but plural possesive should be formed with `-ija`)
 
 ## Everything else
 Veiw the full dictionary at [lri.pages.dev](lri.pages.dev).
