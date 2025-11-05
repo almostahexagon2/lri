@@ -13,3 +13,4 @@ Note: The sentence shown in each example is "***bolszekisumantuxi tje, ju ije ha
 | [vimrepuno nova](orthography/vimrepuno-nova.md) | Segmental syllabary with sitelen pona. | <img src="https://almostahexagon2.github.io/lri/uploads/imgs/orthography/vimrepuno-nova.webp" height="200" />|
 | [hangul mallona](orthography/hangul-mallona.md) | Segmental syllabary based on Korean Hangeul. | <img src="https://almostahexagon2.github.io/lri/uploads/imgs/orthography/hangul-mallona.jpg" height="200" />|
 | vimsonjo | Modified *sitelen pona* | <img src="https://almostahexagon2.github.io/lri/uploads/imgs/orthography/vimsonjo-example.svg" height="200" /> |
+| vimjunikodo | Alphabet using unicode characters | |
