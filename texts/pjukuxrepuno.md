@@ -22,7 +22,7 @@ Ix nidu paju namkuni ris kjo.
 
 Kunnico
 ---
-#### Da: kunsi-sa, 2025-10-1*
+#### Da: kunsi-sa, 2025-10-1x, son 2025-05-14+
 
 wej kunsi-sa lanu [Lanbolszekuno]() ve mila-se tje, kunnico.
 kunnico tje, kirisu-sa, evila-sa, kunsi-sa, kairu-sa, i kupaj-se.
@@ -48,7 +48,7 @@ kjo tje, Repuno nicu.
 
 Pjukanarkisumo 
 ---
-#### Da: kunis-sa, 2025-10-16, son 2024-09-xx
+#### Da: kunsi-sa, 2025-10-16, son 2024-09-xx
 djen ve szakon-se, tje kirisu-sa havu pjuko: "pjukanarkisumo".
 szakon-se wilvidu Pjuko.
 szakon-se tilu til kirisu-sa
