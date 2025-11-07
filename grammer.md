@@ -22,27 +22,27 @@ Here, `lan+repun` is head inital, but `+ido` is head final. For more information
 
 | Prefix | Meaning | Example | Origin |
 | :---- | :---- | :---- | :---- |
-| rej- | To do again | Rej,mis,paj,anaku \= to repeatedly fail to establish anarchism | esperanto |
-| paj- | To make (something become) | paj,muku \= make food  | Toki pona “pali” |
+| rej- | To do again | rejvidu \= to see again | esperanto |
+| paj- | To make (something become) | paj,muku \= make food (cook)  | Toki pona “pali” |
 | xaj- | To become  | xaj,sonu \= become knowing  | A priori |
 | mis- | mis- (to do in the wrong way) | mis,lanu \= misspoke | Esperanto |
 | kep- | To use/consume | kep,muku \= eat food | a priori |
 | dis- | To emit or scatter | dis,muku \= give food | esperanto  |
 | kjen- | Able to | kjen,paj,muku \= able to cook | Toki pona |
-| mal- | The exact opposite of | mal,anakanto \= unanarchist | esperanto |
+| mal- | The exact opposite of | mal,kirosa \= small | esperanto |
 
 These prefixes are appended to the front of the words they apply to, they are mostly for verbs, however, there are nouns like `paj+lan+o`, meaning conlang.
 
 | Suffix | Meaning | Example | Origin |
 | :---- | :---- | :---- | :---- |
-| \-ant- | One who | anak**ant**o \= anarchist | esperanto |
-| \-es- | Unit/part of | repn**es**o \= person | \<se\> from LR |
+| \-ic- | One who | kirik**ic**o \= fighter | esperanto |
+| \-es- | Smallest unit/atom | sang**es**o \= phoneme | \<se\> from LR |
 | \-ux- | group/connection of | namuxo \= dictionary (word group) | a priori |
 | \-id- | child/successor of | lanrepunido | esperanto |
 | \-il- | Tool of | konp**il**o \= computer | esperanto |
-| \-at- | place/container/country of | Anak**at**o \= place of anarchism | A priori  |
+| \-at- | place/container/country of | Amerik**at**o \= America | A priori  |
 | \-ecz- | affectionate/diminutive | At**ecz**o \= micronation | A priori |
-| \-isum- | ism | anark**isum**o \= anarchism | english |
+| \-isum- | ism | son**isum**o \= science (knowledgeism) | english |
 
 These suffixes go on the end of what they modify, for example `pajlan+ant+ux+o` meaning, a group of conlangers.
 
@@ -79,24 +79,27 @@ To say something is the most, or biggest, use `ol alo`.
 `Ixaq havu ij sud ol alo`
 `We have more strength then all`
 
+Often, `havu ij` is dropped.
+`Nico sinifu ol alo`
+`The start is more important`
+
 Prepositions
 ----
 LRI prepositional phrases go after the noun the relate to.
 
 | Prepostion | Meaning | Example | Translation |
 | :---- | :---- | :---- | :---- |
-| ve | in, at, on | ix ve anakato | Im **in** a place of anarchy |
-| da | from | Ix da anakato | Im **from** a place of anarchy |
+| ve | in, at, on | ix **ve** domo | Im **in** a house  |
+| da | from | Ix tilu da domo | I came **from** house |
 | kep | using | ix kiriku kep kirikilo | I fight **using** a tool |
-| kun | with | ix **kun** ixa repuneso | Im **with** a friend |
-| kirik | against | ix **kirik** aq |  |
-| sam | similar | ix-aq sam eti | we are **similar** (to) them |
-| ris | because |  |  |
-| za | for |  | Russian за |
-| til | to |  |  |
-| mut | more (than) |  |  |
-| son | about |  |  |
-| xe  | in    |  |  |
+| kun | with | ix **kun** ixa sajo | Im **with** a friend |
+| kirik | against | ix **kirik** aq | Im against you |
+| sam | similar | ixaq sam eti | we are **similar** (to) them |
+| ris | because | ix kepmuku **ris** aq pajmuku | I eat **because** you eat |
+| za | for | ix paju kjo **za** aq | I made that **for** you |
+| til | to | ix tilu **til** domo | Im going **to** house |
+| son | about | aq lanu son ex? | what are you talking about? |
+| xe  | in    | ix paju kjo xe djeno | Ill do in a day. |
 
 The prepositions "ve" and "til" are often shortend to "v" and "t" when typed. They are often pronounced as part of the next word, so `ve putjo` is shortend to `v putjo` and pronounced /f_putjo/.  The preposition will devoice if preceded by a voiceless consonat and will voice before a voiced consonant.
 
@@ -123,11 +126,3 @@ According to the original doc, LRI subordinate clauses were unmaked. However, wh
 | Using `tje` | Ido kjo havu balo bolszeka tje, Ix vidu et. |
 | 2 Sentences | Ix vidu ido kjo. Et havu balo bolszeka. |
 | Using `:` | Ix vidu ido kjo: et havu balo bolszeka. | 
-
-Tone Indicators 
----
-As of 2025-10-13, lri has grammitical tone indicators. 
-
-| Tone Ind. | Meaning | Example | Translation |
-| --------- | -------| ----- | ---- |
-| /tf | evan | do    | this  |
