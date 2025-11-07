@@ -14,10 +14,10 @@ Phonology is the set of sounds in a language.
 
 
 ## Vowels
-LRI as the vowels, /a/, /i/, /u/, /e/ and /o/. and the dipthongs /ai/, /ei/, /oi/, and /au/.
+LRI as the vowels, /a/, /o/, /i/, /u/, /e/ and the dipthongs /ai/, /ei/, /oi/, and /au/.
 
 ## Phonotactics
-LRI is probably cJvc. This is not enforced (What am I, the language police?).
+cJvc is strongly advised.
 
 
 
