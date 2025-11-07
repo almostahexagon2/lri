@@ -19,12 +19,12 @@ malkjo tje, ixet ju 「Novuxo Doicza Luka 」\!
 
 nic’, un’, diva, tolnaj’ ju haja.  
 tir, fur, hira, sonu haja.  
-kun kiw’ i rok’ 「varszava  pak」,  
-en seb za aqo\!  
+havu kiw’, rok’ 「varszava  pak」,  
+seb ju za aqo\!  
 A-B-C, kiriku sude.  
-I D-E-F, putjo haja.  
-kun G-H i I ris:「demokrati」.  
-en J kjo ju FDJ.
+D-E-F, putjo haja.  
+G-H i I ris:「demokrati」.  
+J kjo ju FDJ.
 
 ## Bridge
 
@@ -33,22 +33,22 @@ kjo tje, ix ju ve 「Novuxo Doicza Luka 」
 
 ## Chorus
 
-Nic’ un’ diva tolnaj’ ju haja.  
-En tir, fur, hir, sonu haja.  
-Kun kiw’ i rok’ 「varszava 」 pak’,  
-en seb’ za aqo\!  
+nic’, un’, diva, tolnaj’ ju haja.  
+tir, fur, hira, sonu haja.  
+havu kiw’, rok’ 「varszava  pak」,  
+seb ju za aqo\!  
 A-B-C, kiriku sude.  
-En D-E-F, putjo haja.  
-Kun G-H i I ris:「demokrati」.  
-En J kjo ju FDJ.
+D-E-F, putjo haja.  
+G-H i I ris:「demokrati」.  
+J kjo ju FDJ.
 
 ## Strophe 2
 
-Xo nje vidu malo da ati malhaja.  
-Ixet havu mut haja,  
+xo nje vidu malo da ati malhaja.  
+ixet havu mut haja,  
 za ixet xajkirosu.  
-Ix kjenxajsonu son pujto pajo, putjo lano, i alo.  
-Bolszekisumo, stalinisumo, lenin-sa i kiriko.
+ix kjenxajsonu son pujto pajo, putjo lano, i alo.  
+bolszekisumo, stalinisumo, lenin-ga i kiriko.
 
 ## Pre chorus
 
@@ -62,37 +62,37 @@ malsami tje, alxi ju 「Novuxo Doicza Luka 」\!
 
 ## Chorus
 
-Nic’ un’ diva tolnaj’ ju haja.  
-En tir, fur, hir, sonu haja.  
-Kun kiw’ i rok’ 「varszava 」 pak’,  
-en seb za aqo\!  
+nic’, un’, diva, tolnaj’ ju haja.  
+tir, fur, hira, sonu haja.  
+havu kiw’, rok’ 「varszava  pak」,  
+seb ju za aqo\!  
 A-B-C, kiriku sude.  
-En D-E-F, putjo haja.  
-Kun G-H i I ris:「demokrati」.  
-En J kjo ju FDJ.
+D-E-F, putjo haja.  
+G-H i I ris:「demokrati」.  
+J kjo ju FDJ.
 
 ## Strophe 3
 
-Kjo za luko, kjo za pajo.  
-Kjo za remluk’, kjo za kuno.  
-Kjo ju lawo.  
-Kirik heiczen’ i 「manhaten」.  
-Kirik 「USA」.  
-Kirik lawo mal’.  
-Kriku kune\!
+kjo za luko, kjo za pajo.  
+kjo za remluk’, kjo za kuno.  
+kjo ju lawo.  
+kirik heiczen’ i 「manhaten」.  
+kirik 「USA」.  
+kirik lawo mal’.  
+kriku kune\!
 
 ## Bridge
 
-Ix ju id’ tje, Ix ju za erenst talman-sa.  
-Kjo tje, ix ju ve 「Novuxo Doicza Luka 」
+ix ju id’ tje, ix ju za erenst talman-sa.  
+kjo tje, ix ju ve 「Novuxo Doicza Luka 」
 
 ## Chorus
 
-Nic’ un’ diva tolnaj’ ju haja.  
-En tir, fur, hir, sonu haja.  
-Kun kiw’ i rok’ 「varszava 」 pak’,  
-en seb za aqo\!  
+nic’, un’, diva, tolnaj’ ju haja.  
+tir, fur, hira, sonu haja.  
+havu kiw’, rok’ 「varszava  pak」,  
+seb ju za aqo\!  
 A-B-C, kiriku sude.  
-En D-E-F, putjo haja.  
-Kun G-H i I ris:「demokrati」.  
-En J kjo ju FDJ.
+D-E-F, putjo haja.  
+G-H i I ris:「demokrati」.  
+J kjo ju FDJ.
