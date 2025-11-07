@@ -4,7 +4,7 @@ Translation of "Bosanska Artiljerija", here "Kirikilo" refers to kirisu-sa's can
 
 muziko
 ----
-saji xaju kuno, tje paju Repuno.
+saji xajkunu, tje xajRepunu.
 remal' tje, ix awu kjo.
 Repuno ixeta kiriku tje,
 ix pobjedu ve kiriko.
