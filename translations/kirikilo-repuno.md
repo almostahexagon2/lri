@@ -25,7 +25,7 @@ Kirikilo kjo! ixaq ju ve Repuno.
 Kirikilo kjo! ixaq ju ve Repuno.
 ixa Repuno haju!
 
-saji xaju kuno, tje paju Repuno.
+saji xajkunu, tje xajRepunu.
 remal' tje, ix awu kjo.
 Repuno ixeta kiriku tje,
 ix pobjedu ve kiriko.
