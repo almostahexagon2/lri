@@ -1,4 +1,4 @@
-kirikilo repuno
+kirikilo Repuno
 ====
 Translation of "Bosanska Artiljerija", here "Kirikilo" refers to kirisu-sa's cannon in culasguliko.
 
