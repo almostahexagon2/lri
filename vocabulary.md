@@ -86,6 +86,7 @@ See the [main page](later.md).
 `I have no books`
 `Ix havu njo.`
 `I have nothing.`
+"nj-" is different from "mal-" because "ix nje amu et" means "i don't like him but it is possible that i dont dislike him. "ix malamu et" means "i dislike him". To summariaze, "mal-" creates the exact opposite, while "nj-" just means not.  
  
 ### xo
 "xo" turns a statement into a command. "xo" is put between the subject and the verb.
