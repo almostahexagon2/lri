@@ -95,6 +95,33 @@ See the [main page](later.md).
 It can be simplified to `Xo havu pjuko.` if your subject is already known.
 
 ## Numbers
+### Old Numbers
+### wukaszjeviczujnovo (niruczijuxo)
+Each digit (0-9) is a cv syllable. To form a number, combine the syllables like they are numbers, "137" is `ruczise`. A decimal point is `puko`. For example `6.283185` is `ro puko czikokurukore`
+
+| # | Word |
+| - | ---- |
+| 0 |  ni  |
+| 1 |  ru  |
+| 2 |  czi |
+| 3 |  ku  |
+| 4 |  ti  |
+| 5 |  re  |
+| 6 |  ro  |
+| 7 |  se  |
+| 8 |  ko  |
+| 9 |  le  |
+
+#### Counting
+To count, [(like marusja раз, два, три, lentano nigra mia, knabino plukis fragojn en gxarden)](https://www.youtube.com/watch?v=27BP5sXwuTs), go `ni, ru, czi ...`.
+#### Amounts
+
+Add `-jo` to the number and put it before the thing that is being counted.
+`Ix havu lerejo pjuko` "I have 95 books.
+
+#### Ordinal 
+Add `-ja` to the number and put it after the thing being ordered.
+`Ix havu pjuko lereja` "I have the 95th book"
 
 ## Pronouns
 LRI has 4 base pronouns:
