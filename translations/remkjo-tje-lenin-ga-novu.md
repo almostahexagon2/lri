@@ -5,30 +5,30 @@ remkjo tje, lenin-ga, novu
 muziko
 ---
 
-fjako v djennico kejojo
+fjako v kejojo djenico.
 nic' sinifu ol alo.
 aq kiku sango kjo ka:
 kiriki kej ato?
 
 rejojo:
-kjo tje, ixaq rejkiriku.
-ixi wilu tilu til kjo.
+kjo tje, havu rejkiriku.
+ixaq wilu tilu til kjo.
 remkjo tje, lenin-ga novu.
 jaresunico nova wej remkjo.
 remkjo tje, lenin-ga novu.
 jaresunico nova wej remkjo.
 
-alo xajsonu kjo.
+alo v xajsonu kjo.
 matji xo xajsonu kjo:
-ix’ havu pobjedi nova,
-i kirikanti nova.
+ixet havu pobjedi nova,
+i kirikici nova.
 
 rejojo
 
 haj’ nje tilu da kejoj’.
 lon’ sinifu ol rzivo.
 saji xo, rzivo kjo tje,
-ixaq tinku kep lono.
+ixaq tinku kep jujo.
 
 rejojo
 
