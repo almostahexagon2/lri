@@ -23,5 +23,9 @@ Bosanska Artiljerija
 ---
 [song here](translations/kirikilo-repuno.md)
 
+La Maxnovtchina
+---
+[song here](translations/maxnojato.md)
+
 *nix users (discord)
 ----
