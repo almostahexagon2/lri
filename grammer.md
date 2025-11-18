@@ -28,7 +28,7 @@ Here, `lan+repun` is head inital, but `+ido` is head final. For more information
 | mis- | mis- (to do in the wrong way) | mis,lanu \= misspoke | Esperanto |
 | kep- | To use/consume | kep,muku \= eat food | a priori |
 | dis- | To emit or scatter | dis,muku \= give food | esperanto  |
-| kjen- | Able to | kjen,paj,muku \= able to cook | Toki pona |
+| kjen- | Able to | kjen,paj,muku \= able make food | Toki pona |
 | mal- | The exact opposite of | mal,kirosa \= small | esperanto |
 
 These prefixes are appended to the front of the words they apply to, they are mostly for verbs, however, there are nouns like `paj+lan+o`, meaning conlang.
@@ -45,6 +45,8 @@ These prefixes are appended to the front of the words they apply to, they are mo
 | \-isum- | ism | son**isum**o \= science (knowledgeism) | english |
 
 These suffixes go on the end of what they modify, for example `pajlan+ant+ux+o` meaning, a group of conlangers.
+
+Also: Don't try to say `pajlanantuxo` as `paj.lan.ant.ux.o`, that will only make it hard for you and the listener. Just say `paj.lan.antu.xo`
 
 Less basic grammer
 ---
