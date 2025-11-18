@@ -120,13 +120,13 @@ According to the original doc, LRI subordinate clauses were unmaked. However, wh
 | marked | ix sonu kjo: repuno haja zivu | A newline usally procedes the semicolon |
 
  ### Relative Clauses
- LRI does not have relative clauses because they can be easily expressed in 2 sentences or using `tje`. For the last example, It is acceptable to use a `,` insted of `:`.  Yes, the last two examples are basicly the same thing. Kunsi-sa would consider using `tje` to be the most "LRI like" and "proper". Brackets only sometimes over discord. Evila-sa came up with brackets, but kunsi-sa sometimes uses them.
+ LRI does not have relative clauses because they can be easily expressed in 2 sentences or using `tje`. For examples 3 and 4, It is acceptable to use a `,` insted of `:`.  Yes, they're basically the same. Kunsi-sa would consider using `tje` to be the most "LRI like" and "proper". Brackets only sometimes over discord. Evila-sa came up with brackets, but kunsi-sa sometimes uses them.
  
 | Language | Meaning |
 | ----  | ----- |
-| English | I see the kid who has the red ball. |
-| Using `tje` | Ido kjo havu balo bolszeka tje, Ix vidu et. |
-| 2 Sentences | Ix vidu ido kjo. Et havu balo bolszeka. |
-| Using `:` | Ix vidu ido kjo: et havu balo bolszeka. | 
-| Brackets | Ix vidu [ido havu balo]. |
+| 1. English | I see the kid who has the red ball. |
+| 2. Using `tje` | Ido kjo havu balo bolszeka tje, Ix vidu et. |
+| 3. 2 Sentences | Ix vidu ido kjo. Et havu balo bolszeka. |
+| 4. Using `:` | Ix vidu ido kjo: et havu balo bolszeka. | 
+| 5. Brackets | Ix vidu [ido havu balo]. |
 
