@@ -12,11 +12,11 @@ kiriki kej ato?
 
 rejojo:
 kjo tje, havu rejkiriku.
-ixaq wilu tilu til kjo.
+ixaq wilu tilu kjo.
 remkjo tje, lenin-ga novu.
-jaresunico nova wej remkjo.
+jaresunico nova weju remkjo.
 remkjo tje, lenin-ga novu.
-jaresunico nova wej remkjo.
+jaresunico nova weju remkjo.
 
 alo v xajsonu kjo.
 matji xo xajsonu kjo:
