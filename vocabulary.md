@@ -118,7 +118,8 @@ To count, [(like marusja раз, два, три, lentano nigra mia, knabino pluk
 #### Amounts
 
 Add `-jo` to the number and put it before the thing that is being counted.
-`Ix havu lerejo pjuko` "I have 95 books.
+`Ix havu lerejo pjuko` "I have 95 books."
+The `-jo` is not really nessicary, and can be dropped.
 
 #### Ordinal 
 Add `-ja` to the number and put it after the thing being ordered.
