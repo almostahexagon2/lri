@@ -87,7 +87,7 @@ Often, `havu ij` is dropped.
 
 Prepositions
 ----
-LRI prepositional phrases go after the noun the relate to.
+LRI prepositional phrases go after the noun the relate to. Prepositions function more like conjunctions.
 
 | Prepostion | Meaning | Example | Translation |
 | :---- | :---- | :---- | :---- |
