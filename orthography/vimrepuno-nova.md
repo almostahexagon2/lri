@@ -7,7 +7,9 @@ Vimrepunnovo (/vimrepu'n:ovo/) is a segmental syllabary created by kunsi-sa on (
 
 Segments
 ---
+
 | Roman | Vimrepunnovo | Wide Form |
+| ----- | ------------ | --------- |
 |  p    | ![p](uploads/imgs/orthography/vimrepunnovo/vrn-a.svg) | |
 
 
