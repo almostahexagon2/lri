@@ -11,6 +11,9 @@ Segments
 | Roman | Vimrepunnovo | Wide Form |
 | ----- | ------------ | --------- |
 |  p    | <img src="https://almostahexagon2.github.io/lri/uploads/imgs/orthography/vimrepunnovo/vrn-p.svg" height="50" /> | |
+|  b    | <img src="https://almostahexagon2.github.io/lri/uploads/imgs/orthography/vimrepunnovo/vrn-b.svg" height="50" /> | |
+|  t    | <img src="https://almostahexagon2.github.io/lri/uploads/imgs/orthography/vimrepunnovo/vrn-t.svg" height="50" /> | |
+|  d    | <img src="https://almostahexagon2.github.io/lri/uploads/imgs/orthography/vimrepunnovo/vrn-d.svg" height="50" /> | |
 
 
 
