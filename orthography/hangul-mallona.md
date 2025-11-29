@@ -21,3 +21,20 @@ A centre dot acts like `-` au `'` in vimaisojo. It is used (optionally) to separ
 
 <img src="https://almostahexagon2.github.io/lri/uploads/imgs/orthography/hangul-mallona/dot-v-nami.jpg" width=300 title="øevilase i øevila•se" />
 <img src="https://almostahexagon2.github.io/lri/uploads/imgs/orthography/hangul-mallona/dot-v-word.png" width=300 title="tolnajo i tolnaj•" />
+
+# czasznami
+A <ruby><rb>**czasz**</rb><rp>(</rp><rt>container</rt><rp>)</rp><rb>**namo**</rb><rp>(</rp><rt>word</rt><rp>)</rp></ruby> is, as the name implies, a box drawn around words to give special meaning. They are used pretty similarly to how evila-se uses \[brackets], which is outlined below. They can take up multiple lines; just cut off the left/right sides \[if/when] needed.
+
+Draw a czasznamo around nami that:
+- are names (obviously not limitied to people). If you put \[-ga/-sa/-se/-szi/-szite], put it outside the czasznamo.
+- are "selections" (which is best explained as this: "which is greater? 5 \[plus/minus] 2?", where the \[brackets] are replaced with czasznami).
+- are part of a quote. Draw a czasznamo around the whole quote.
+- have to with variables, explained below.
+
+## variables
+A "variable" is a piece of text that represents a whole compound or a few words, represented in vimaisojo with a capitalised word and some kind of definition. For example:
+```
+ix tilu Domo. Domo ju domkisejuxo.
+ix xajhavu pomi nova 3jo ve Domo.
+```
+Here, `Domo` referrs to the defined `domkisejuxo`, which could mean mall (group of building money), and is referenced in the line below. In hangul mallona, the `Domo` is represented by drawing a czasznamo around "domo". This does mean a czasznamo'ed "domo" could be part of a quote or a name, but that is left up to context (unless I decide to change that).
