@@ -1,14 +1,15 @@
-Vimrepuno nova
+Vimrepunnovo/Vimrepuno nova
 ===
 
 History
 ---
-vimrepuno nova is a segmental syllabary created by kunsi-sa on (date). Vimrepuno nova is a modified form of lanrepn's 2 dimensional anti-line writing (2dalw). Vimrepuno nova is "nova" because it replaces [vimrepuno](/orthography/vimrepuno.md).
+Vimrepunnovo (/vimrepu'n:ovo/) is a segmental syllabary created by kunsi-sa on (date). Vimrepunnovo is an adaptation of lanrepn's 2 dimensional anti-line writing (2dalw). It is often just called "vimrepuno", even though [vimrepuno](/orthography/vimrepuno.md) is something else. 
 
 Segments
 ---
 Vimrepuno has 29 segments
-(table later)
+
+
 
 Combining Segments
 ---
