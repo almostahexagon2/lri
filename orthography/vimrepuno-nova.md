@@ -10,7 +10,7 @@ Segments
 
 | Roman | Vimrepunnovo | Wide Form |
 | ----- | ------------ | --------- |
-|  p    | ![p](uploads/imgs/orthography/vimrepunnovo/vrn-a.svg) | |
+|  p    | ![p](/uploads/imgs/orthography/vimrepunnovo/vrn-a.svg) | |
 
 
 
