@@ -1,13 +1,13 @@
 remkjo tje, lenin-ga, novu
 ===
-Inspired by <img width="276" height="84" alt="image" src="https://github.com/user-attachments/assets/0c4c3eae-64d8-44ad-8af1-5aa9a5ccbfae" />
+Inspired by kirisu-sa's excitement at seeing ben <img width="276" height="84" alt="image" src="https://github.com/user-attachments/assets/0c4c3eae-64d8-44ad-8af1-5aa9a5ccbfae" />
 
 
 muziko
 ---
 
-fjako v kejojo djenico.
-nic' sinifu ol alo.
+ben-ga paju Pomeczux' tje,
+ixaq ivanu ve kjo
 aq kiku sango kjo ka:
 kiriki kej ato?
 
