@@ -32,6 +32,17 @@ Here, `lan+repun` is head inital, but `+ido` is head final. For more information
 | mal- | The exact opposite of | mal,kirosa | small | esperanto |
 
 These prefixes are appended to the front of the words they apply to, they are mostly for verbs, however, there are nouns like `paj+lan+o`, meaning conlang.
+#### paj and xaj
+The suffixes xaj and paj are frequenly misused, likely becaues they have been poorly defined. Have another table:
+
+| Usage            | Translation | Example   | Meaning |
+| :----------------| :---------- | :---- | :----- |
+| Intransative xaj | subject becomes | ix **xaj**kunu | I unite |
+| Transative xaj   | subject makes object become | ix **xaj**kunu pomi. | I unite the fruits. |
+| Intransative paj | subject creates | ix **paj**pjuku | I make a book |
+
+
+
 
 | Suffix | Meaning | Example | Origin |
 | :---- | :---- | :---- | :---- |
