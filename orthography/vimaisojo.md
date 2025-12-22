@@ -17,4 +17,6 @@ Originaly, `qz` was written `dz`, but was changed for consistency. The 5 vowels 
 
 Order
 ----
-Consonant order is based on this IPA chart. Go left to right, then top to bottom, digraphs are treated as their own letters. Vowels are listed first, in the order `a,o,i,u,e`. Evila-sa created this order on (date). According to him, this order represents how the word endings are used. 
+Consonant order is based on this IPA chart. Go left to right, then top to bottom (mostly), digraphs are treated as their own letters. Vowels are listed first, in the order `a,o,i,u,e`. Evila-sa created this order on 2025-10-22. According to him, this order represents how the word endings are used. 
+
+The full order is (as of 2025-12-21): `p,b, t,d, k,g, c,q, cz,qz, m,n, f,v, s,z, sz,rz, x,h, w,j, l,r`. Spaces are added for clarity
