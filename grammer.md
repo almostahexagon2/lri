@@ -141,3 +141,19 @@ According to the original doc, LRI subordinate clauses were unmaked. However, wh
 | 4. Using `:` | Ix vidu ido kjo: et havu balo bolszeka. | 
 | 5. Brackets | Ix vidu [ido havu balo]. |
 
+## Extra proposed grammer
+### relative clauses: `czto`
+`czto` (coming from что) would be used for relative clauses. This is the same as using "what", "who", "when", "how", "why" to introduce a relative clause, but all in 1 word.
+
+### shortened forms of words
+Technically official now, but here's the full list. probably will be moved up
+| namo | nameczo |
+|------------ | --------|
+| ve | v |
+| til | t |
+| da | d |
+| kep/kun | k |
+| mal | m or m' |
+
+### `aj`: of
+Comes from adjective`j`, meaning something like "adjective/modifier" as a preposition. Means "of", use only when needed.
