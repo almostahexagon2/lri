@@ -157,3 +157,6 @@ Technically official now, but here's the full list. probably will be moved up
 
 ### `aj`: of
 Comes from adjective`j`, meaning something like "adjective/modifier" as a preposition. Means "of", use only when needed.
+
+### subject dropping
+enough context tje, the subject (usually ix) can be completely removed. An example is if someone sends a screenshot of a download in progress, they can say `finu` when it's done.
