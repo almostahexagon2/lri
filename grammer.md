@@ -141,19 +141,25 @@ According to the original doc, LRI subordinate clauses were unmaked. However, wh
 | 4. Using `:` | Ix vidu ido kjo: et havu balo bolszeka. | 
 | 5. Brackets | Ix vidu [ido havu balo]. |
 
-## Extra proposed grammer
+## Proposed Grammer
 ### relative clauses: `czto`
-`czto` (coming from что) would be used for relative clauses. This is the same as using "what", "who", "when", "how", "why" to introduce a relative clause, but all in 1 word.
+`czto` (from russian что) was first used by Evila-sa on (date) on discord. Kunsi-sa was originally against it, and still tries to avoid it, but accepts it as a useful word and has use it in the pukuxrepuno. It is used to start a relative clause. For example, `Ix vidu ico czto ac ico.` Means "I see the person that you see."
 
-### shortened forms of words
+
+### Short Forms
 Technically official now, but here's the full list. probably will be moved up
-| namo | nameczo |
-|------------ | --------|
+
+| Word | Short Form |
+|----- | -------- |
 | ve | v |
 | til | t |
 | da | d |
-| kep/kun | k |
-| mal | m or m' |
+| kep/kun | k,z[^1] |
+| mal | m |
+
+This was likely Evila-sa's idea, and is mostly fully adopted. A `'` can be used to indicate that a word is in its short form. 
+
+[^1]: Evila-sa uses z, and has expanded its meaning to English "with". Kunsi-sa thinks that this is stupid, and uses k. 
 
 ### `aj`: of
 Comes from adjective`j`, meaning something like "adjective/modifier" as a preposition. Means "of", use only when needed.
