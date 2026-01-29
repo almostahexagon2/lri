@@ -168,3 +168,6 @@ This was likely Evila-sa's idea, and is mostly fully adopted. A `'` can be used 
 
 ### Subject Dropping
 With enough context, or if who the statement applies to is unimportant, the subject (usually ix) can be completely removed. For example, if someone sends a screenshot of a download in progress, they can say `finu` when it's done.
+
+### Aspect: Ejo Nami Ujo Nova
+On 
