@@ -142,7 +142,7 @@ According to the original doc, LRI subordinate clauses were unmaked. However, wh
 | 5. Brackets | Ix vidu [ido havu balo]. |
 
 ## Proposed Grammer
-### relative clauses: `czto`
+### Relative Clauses: `czto`
 `czto` (from russian что) was first used by Evila-sa on (date) on discord. Kunsi-sa was originally against it, and still tries to avoid it, but accepts it as a useful word and has use it in the pukuxrepuno. It is used to start a relative clause. For example, `Ix vidu ico czto ac ico.` Means "I see the person that you see."
 
 
@@ -161,8 +161,10 @@ This was likely Evila-sa's idea, and is mostly fully adopted. A `'` can be used 
 
 [^1]: Evila-sa uses z, and has expanded its meaning to English "with". Kunsi-sa thinks that this is stupid, and uses k. 
 
-### `aj`: of
-Comes from adjective`j`, meaning something like "adjective/modifier" as a preposition. Means "of", use only when needed.
+### Regrouping: `aj`
+`aj` (from a and j) is used to limit the scope of a modifier. For example `fjako kejojo djennico` means "(flag of the sky) of the morning", but `fjako aj kejojo djennico` means "flag of (the sky of the morning)". 
 
-### subject dropping
-enough context tje, the subject (usually ix) can be completely removed. An example is if someone sends a screenshot of a download in progress, they can say `finu` when it's done.
+`aj` has been used to name the dictionary sheet: "namuxo kirosa aj lanrepunido", however, it is not needed here, and nobody has ever found a use for it. 
+
+### Subject Dropping
+With enough context, or if who the statement applies to is unimportant, the subject (usually ix) can be completely removed. For example, if someone sends a screenshot of a download in progress, they can say `finu` when it's done.
