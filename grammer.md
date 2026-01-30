@@ -170,4 +170,4 @@ This was likely Evila-sa's idea, and is mostly fully adopted. A `'` can be used 
 With enough context, or if who the statement applies to is unimportant, the subject (usually ix) can be completely removed. For example, if someone sends a screenshot of a download in progress, they can say `finu` when it's done.
 
 ### Aspect: Ejo Nami Ujo Nova
-On 
+On (date), during the creation of the pukuxrepuno, Kunsi-sa wanted to translate a sentence, and felt that it didnt make sense without aspect, so he created the Ejo Nami Ujo Nova. <-- also kinda came from trying to invent a from system --> The ENUN has introduces 4 suffixes and a correspoding aspect: `-ik-`, for the perfective aspect, `-ar-` for the imperfective, `-uc-` for the incohative, and `-in-` for the cessative. 
