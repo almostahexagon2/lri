@@ -21,8 +21,21 @@ List of Radicals
 | ala  | Arms froming a "x" |
 | uta  | _Jan_, but with the fingertips at the mouth |
 | kama | Arms in a triangle, fingers facing upwards |
-| linja | Arms infront of the chest, with each palm on the forearm of the opposite arm |
-| palisa |
+| linja | Arms in front of the chest, with each palm on the forearm of the opposite arm |
+| palisa | One arm in front of chest |
+| sike | _Lawa_, but in front of chest |
+| poki | Hands in "L" shapes, with thumbs facing each other |
+| kule | Hands in the shape of brackets, facing each other |
+| weka | Hands starting together, as if praying, then seperating |
+| soweli | _Poki_, but with hands spread apart and above head |
+| nasin | |
+| tenpo | One hand in an "L" shape, infront of the chest |
+| pana | Spreading arms forward |
+| noka | |
+| lili | Singular fist, touching chest |
+| wan | |
+| tu | On arm in a diagonal 
+| enko | One hand with palm open, facing down, other hand touching it, pointing down|
 
 List of Common Words
 ---
