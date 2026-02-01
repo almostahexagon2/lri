@@ -41,6 +41,7 @@ List of Common Words
 ---
 
 | Name | Sign |
+| ---- | ---- |
 | ix   | Pointing to self |
 | ac   | Pointing to listener |
 | et   | Pointing sideways or to antecedent |
