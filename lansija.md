@@ -33,9 +33,18 @@ List of Radicals
 | pana | Spreading arms forward |
 | noka | |
 | lili | Singular fist, touching chest |
-| wan | |
+| wan | Fist raised into the air |
 | tu | On arm in a diagonal 
 | enko | One hand with palm open, facing down, other hand touching it, pointing down|
 
 List of Common Words
 ---
+
+| Name | Sign |
+| ix   | Pointing to self |
+| ac   | Pointing to listener |
+| et   | Pointing sideways or to antecedent |
+| kj-  | Pointing down |
+| vim- | Emulating holding a pencil and writing on the palm of other hand |
+| til- | Fingers emulating walking motion on palm of other hand |
+| ve   | One hand with palm open, facing up, other hand touching it, pointing down |
