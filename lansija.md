@@ -12,7 +12,7 @@ Each radical in vimsonjo has a corresponding sign made with the arms and hands. 
 List of Radicals
 ---
 
-| Name | Sign |
+| Radical | Sign |
 | ---- | ---- |
 | jan  | Arms in a triangle, with the fingertips overlaping at the base of the neck |
 | luka | _Jan_, but with one arm sticking out and parallel to the other |
@@ -37,10 +37,22 @@ List of Radicals
 | tu | On arm in a diagonal 
 | enko | One hand with palm open, facing down, other hand touching it, pointing down|
 
+
+Phonetic Signs
+---
+
+| Sound | Sign |
+| a | One hand in a "C" shape |
+| o | 
+| i |
+| u |
+| e |
+| j | 
+
 List of Common Words
 ---
 
-| Name | Sign |
+| Word | Sign |
 | ---- | ---- |
 | ix   | Pointing to self |
 | ac   | Pointing to listener |
@@ -49,3 +61,5 @@ List of Common Words
 | vim- | Emulating holding a pencil and writing on the palm of other hand |
 | til- | Fingers emulating walking motion on palm of other hand |
 | ve   | One hand with palm open, facing up, other hand touching it, pointing down |
+| vid- | One finger pointing to each eye, then moving away |
+
