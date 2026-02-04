@@ -137,13 +137,13 @@ According to the original doc, LRI subordinate clauses were unmaked. However, wh
 | ----  | ----- |
 | 1. English | I see the kid who has the red ball. |
 | 2. Using `tje` | Ido kjo havu balo bolszeka tje, Ix vidu et. |
-| 3. 2 Sentences | Ix vidu ido kjo. Et havu balo bolszeka. |
+| 3. 2 sentences | Ix vidu ido kjo. Et havu balo bolszeka. |
 | 4. Using `:` | Ix vidu ido kjo: et havu balo bolszeka. | 
 | 5. Brackets | Ix vidu [ido havu balo]. |
 
 ## Proposed Grammer
 ### Relative Clauses: `czto`
-`czto` (from russian что) was first used by Evila-sa on (date) on discord. Kunsi-sa was originally against it, and still tries to avoid it, but accepts it as a useful word and has use it in the pukuxrepuno. It is used to start a relative clause. For example, `Ix vidu ico czto ac ico.` Means "I see the person that you see."
+`czto` (from russian что) was first used by Evila-sa around 2025-12-09 on discord. Kunsi-sa was originally against it, and still tries to avoid it, but accepts it as a useful word and has use it in pukuxrepuno. It is used to start a relative clause. For example, `Ix vidu ico czto ac ico` means "I see the person that you see".
 
 
 ### Short Forms
@@ -159,7 +159,7 @@ Technically official now, but here's the full list. probably will be moved up
 
 This was likely Evila-sa's idea, and is mostly fully adopted. A `'` can be used to indicate that a word is in its short form. 
 
-[^1]: Evila-sa uses z, and has expanded its meaning to English "with". Kunsi-sa thinks that this is stupid, and uses k. 
+[^1]: Evila-sa uses `z`, and has expanded its meaning to English "with". Kunsi-sa thinks that this is stupid, and uses `k`.
 
 ### Regrouping: `aj`
 `aj` (from a and j) is used to limit the scope of a modifier. For example `fjako kejojo djennico` means "(flag of the sky) of the morning", but `fjako aj kejojo djennico` means "flag of (the sky of the morning)". 
@@ -170,4 +170,4 @@ This was likely Evila-sa's idea, and is mostly fully adopted. A `'` can be used 
 With enough context, or if who the statement applies to is unimportant, the subject (usually ix) can be completely removed. For example, if someone sends a screenshot of a download in progress, they can say `finu` when it's done.
 
 ### Aspect: Ejo Nami Ujo Nova
-On (date), during the creation of the pukuxrepuno, Kunsi-sa wanted to translate a sentence, and felt that it didnt make sense without aspect, so he created the Ejo Nami Ujo Nova. <-- also kinda came from trying to invent a from system --> The ENUN has introduces 4 suffixes and a correspoding aspect: `-ik-`, for the perfective aspect, `-ar-` for the imperfective, `-uc-` for the incohative, and `-in-` for the cessative. 
+On 2025-01-25, during the creation of the pukuxrepuno, Kunsi-sa wanted to translate a sentence, and felt that it didnt make sense without aspect, so he created the Ejo Nami Ujo Nova. <-- also kinda came from trying to invent a from system --> The ENUN has introduces 4 suffixes and a correspoding aspect: `-ik-`, for the perfective aspect, `-ar-` for the imperfective, `-uc-` for the incohative, and `-in-` for the cessative. 
