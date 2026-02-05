@@ -171,3 +171,8 @@ With enough context, or if who the statement applies to is unimportant, the subj
 
 ### Aspect: Ejo Nami Ujo Nova
 On 2025-01-25, during the creation of the pukuxrepuno, Kunsi-sa wanted to translate a sentence, and felt that it didnt make sense without aspect, so he created the Ejo Nami Ujo Nova. <-- also kinda came from trying to invent a from system --> The ENUN has introduces 4 suffixes and a correspoding aspect: `-ik-`, for the perfective aspect, `-ar-` for the imperfective, `-uc-` for the incohative, and `-in-` for the cessative. 
+
+### Decorative Tone
+
+### Reflexive Pronouns
+
