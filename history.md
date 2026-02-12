@@ -24,4 +24,13 @@ The Reform of 2025-12-20
 ---
 On 2025-12-20, Kunsi-sa and Ewila-sa agreed to change words “aq” and “rziv-” to “ac” and “sziv-”. Both had before complained about the spelling of theese words, but did not decided to change it until then. Ewila-sa initiallly asked to change aq, but then kunsi-sa wanted to change rziv as well, so they agreed to change both and assumed that kirisu-sa would accept, because he had also complained about the presence of “q”.
 
+
+The Reform of 2026-01-15
+---
+Kunsi-sa wanted the orthography to reflect the fact that he disallowed vowel clusters, so he made all diphthongs written using a semivowel and a vowel instead of a vowel. This resulted in heis-, heicz-, au, and xau being changed to hejs-, heczj-, aw, and xau.
+
+The Reforms of 2026-02-12
+---
+Evila-sa, Kirisu-sa and Kunsi-sa had complained about the h/x distinction, but decided to not do anything about it because "haj-" and "xaj-" were some of the most commonly used roots. On 2026-02-12, Evila-sa suggested replacing haj- with tak-. This change was accepted, and hav-, hejs-, hejcz- were replaced with xav-, xejs-, and xejcz-. On the same date, to complete the reform of 2025-12-20, all qz's were replaced with cz's. 
+
 smth about history of scripts
