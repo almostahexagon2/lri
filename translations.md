@@ -3,6 +3,8 @@ Translations
 
 White Army, Black Baron
 ---
+[old](translations/kirikantuxbolszeko.md)
+[new](translations/xucikirikbolšeko.md)
 
 FDJ
 ---
