@@ -14,6 +14,7 @@ Vimaisojo (normal script)
 
 Letters not in parens are IPA, letters in () are orthography. `-z` can be thought of as moving the sound one column back. 
 Originaly, `qz` was written `dz`, but was changed for consistency. The 5 vowels are written as they are in the IPA.
+Instead of digraphs, one can use a haček to mark `-z`. Only kunsi-sa consistently uses hačeks.
 
 Order
 ----
