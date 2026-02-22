@@ -39,7 +39,7 @@ The full @j@
 | -- | --- | -------------- | ---------- | -------------- | ------------------------------ | --- |
 | -  |     | proposed "pi"  |            |                | copula                         |     |
 | a  |     | adjective-like | thing-like | many           | action-like, participle suffix | manner-like |
-| o  |     | a property     | a thing    | a large amount | a action, gerund suffix        | a manner/way |
+| o  |     | a property,suffix for "-ness"     | a thing    | a large amount | a action, gerund suffix        | a manner/way |
 | i  |     | properties     | things     | large amounts  | actions, pl. gerund suffix     | manners/ways |
 | u  |     | to be a property | to be a thing, to exist | to be alot of | to be an action | to be a manner/way |
 | e  |     | adjectively  | thingly |  very             | acionly                       | mannerly | 
