@@ -19,7 +19,8 @@ Moskau
 
 And the Battle is Going Again
 ---
-[song here](translations/remkjo-tje-lenin-ga-novu.md)
+[old](translations/remkjo-tje-lenin-ga-novu.md)
+[new](translations/remkjo-tje-lenin-rejnovu.md)
 
 Bosanska Artiljerija
 ---
