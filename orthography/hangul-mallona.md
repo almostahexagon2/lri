@@ -9,6 +9,7 @@ Note: You can click on images to view in fullscreen, use browser back to go back
 <img src="https://almostahexagon2.github.io/lri/uploads/imgs/orthography/hangul-mallona/overview-consonant.png" width=300 title="consonants" />
 <img src="https://almostahexagon2.github.io/lri/uploads/imgs/orthography/hangul-mallona/overview-vowel-i-structure.png" width=300 title="vowels i structure" />
 <img src="https://almostahexagon2.github.io/lri/uploads/imgs/orthography/hangul-mallona/overview-alternate-i-j-i-splitting.png" width=300 title="alternate forms, ø/j, and syllable splitting" />
+<img src="https://almostahexagon2.github.io/lri/uploads/imgs/orthography/hangul-mallona/overview-extra.png" width=300 title="extra stuff" />
 
 Hint: ø denotes a silent letter (no sound). ø/j ju silent ve beginning of a syllable (before vowel), i it makes the `j` sound at the end (after vowel)
 
