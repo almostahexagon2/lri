@@ -1,1 +1,1 @@
-# Aq vidu kjo, tje ix nje paju page aq wilu.
+# vidu kjo, tje nje pajadu što wilu.
