@@ -55,41 +55,43 @@ The suffixes xaj and paj are frequenly misused, likely becaues they have been po
 | \-ecz- | affectionate/diminutive | At**ecz**o \= micronation | A priori |
 | \-isum- | ism | son**isum**o \= science (knowledgeism) | english |
 
+
 These suffixes go on the end of what they modify, for example `pajlan+ant+ux+o` meaning, a group of conlangers.
 
 Also: Don't try to say `pajlanantuxo` as `paj.lan.ant.ux.o`, that will only make it hard for you and the listener. Just say `paj.lan.antu.xo`
+Probably need to talk about reversed suffixes.  
 
 Less basic grammer
 ---
 ### Questions
 Yes or no questions are formed by using [ka](https://almostahexagon2.github.io/lri/#!././vocabulary.md#ka). 
-`Aq wilu kepmuku.`
+`ac wilu kepmuku.`
 `You want to eat.`
 
-`Aq wilu kepmuku ka?`
+`ac wilu kepmuku ka?`
 `Do you want to eat?`
 
 ### Commands
 Add `xo` after your subject to make a statement into a command. If your subject is already known, the subject can be removed.
-`Matji, xo muku.`
+`matji, xo muku.`
 `Parents, eat.`
 
 Comparisions
 ---
 To say `X is more Y than Z`, use `X ju Y ol Z` or `X havu ij Y ol Z`
 `My apple is redder than your apple.`
-`Pomo ixa bolszeku ol pomo aqa`
+`pomo ixa bolszeku ol pomo aca`
 `My apple reds than yours`
 
-`Pomo ixa havu ij bolszeko ol pomo aqa.`
+`Pomo ixa havu ij bolszeko ol pomo aca.`
 `My apple has more red than yours.`
 
 To say some thing is less than or the same as something else, replace `ij` in the last example with `malij` or `sam`.
 `My apple is as red as yours.`
-`Pomo ixa havu sam bolszeko ol pomo aqa.`
+`Pomo ixa havu sam bolszeko ol pomo aca.`
 
 To say something is the most, or biggest, use `ol alo`.
-`Ixaq havu ij sud ol alo`
+`Ixac havu ij sud ol alo`
 `We have more strength then all`
 
 Often, `havu ij` is dropped.
@@ -106,12 +108,12 @@ LRI prepositional phrases go after the noun the relate to. Prepositions function
 | da | from | Ix tilu da domo | I came **from** house |
 | kep | using | ix kiriku kep kirikilo | I fight **using** a tool |
 | kun | with | ix **kun** ixa sajo | Im **with** a friend |
-| kirik | against | ix **kirik** aq | Im against you |
-| sam | similar | ixaq sam eti | we are **similar** (to) them |
-| ris | because | ix kepmuku **ris** aq pajmuku | I eat **because** you eat |
-| za | for | ix paju kjo **za** aq | I made that **for** you |
+| kirik | against | ix **kirik** ac | Im against you |
+| sam | similar | ixac sam eti | we are **similar** (to) them |
+| ris | because | ix kepmuku **ris** ac pajmuku | I eat **because** you eat |
+| za | for | ix paju kjo **za** ac | I made that **for** you |
 | til | to | ix tilu **til** domo | Im going **to** house |
-| son | about | aq lanu son ex? | what are you talking about? |
+| son | about | ac lanu son ex? | what are you talking about? |
 | xe  | in    | ix paju kjo xe djeno | I will do in a day. |
 
 The prepositions "ve" and "til" are often shortend to "v" and "t" when typed. They are often pronounced as part of the next word, so `ve putjo` is shortend to `v putjo` and pronounced /f_putjo/.  The preposition will devoice if preceded by a voiceless consonant and will voice before a voiced consonant.
