@@ -17,6 +17,9 @@
     - morpheme
     - lexeme
     - phoneme
+    - syllable
+    - stress
+    - foot (meter)
     - allophone
     - allomorph
     - root
